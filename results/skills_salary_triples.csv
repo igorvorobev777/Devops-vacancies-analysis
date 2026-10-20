@@ -1,0 +1,1793 @@
+﻿experience;type;combination;vacancies;median_salary
+Более 6 лет;3;"ansible; docker; kubernetes";11;350000.0
+Более 6 лет;3;"ci/cd; docker; kubernetes";10;300000.0
+Более 6 лет;3;"ci/cd; docker; linux";10;300000.0
+Более 6 лет;3;"devops; docker; kubernetes";12;300000.0
+Более 6 лет;3;"devops; docker; linux";12;300000.0
+Более 6 лет;3;"devops; docker; terraform";10;300000.0
+Более 6 лет;3;"devops; docker; zabbix";10;300000.0
+Более 6 лет;3;"devops; elk; grafana";11;300000.0
+Более 6 лет;3;"devops; kubernetes; linux";10;300000.0
+Более 6 лет;3;"devops; kubernetes; terraform";10;300000.0
+Более 6 лет;3;"devops; kubernetes; zabbix";10;300000.0
+Более 6 лет;3;"docker; elk; kubernetes";11;300000.0
+Более 6 лет;3;"docker; elk; linux";11;300000.0
+Более 6 лет;3;"docker; grafana; kubernetes";12;300000.0
+Более 6 лет;3;"docker; grafana; linux";10;300000.0
+Более 6 лет;3;"docker; grafana; prometheus";10;300000.0
+Более 6 лет;3;"docker; kubernetes; linux";17;300000.0
+Более 6 лет;3;"docker; kubernetes; prometheus";12;300000.0
+Более 6 лет;3;"docker; kubernetes; terraform";12;300000.0
+Более 6 лет;3;"docker; kubernetes; zabbix";13;300000.0
+Более 6 лет;3;"docker; linux; prometheus";11;300000.0
+Более 6 лет;3;"docker; linux; terraform";10;300000.0
+Более 6 лет;3;"docker; linux; zabbix";10;300000.0
+Более 6 лет;3;"docker; prometheus; zabbix";10;300000.0
+Более 6 лет;3;"elk; kubernetes; linux";11;300000.0
+Более 6 лет;3;"grafana; kubernetes; linux";10;300000.0
+Более 6 лет;3;"grafana; kubernetes; prometheus";11;300000.0
+Более 6 лет;3;"grafana; kubernetes; zabbix";10;300000.0
+Более 6 лет;3;"grafana; linux; prometheus";10;300000.0
+Более 6 лет;3;"kubernetes; linux; prometheus";11;300000.0
+Более 6 лет;3;"kubernetes; linux; terraform";10;300000.0
+Более 6 лет;3;"kubernetes; linux; zabbix";10;300000.0
+Более 6 лет;3;"kubernetes; prometheus; zabbix";11;300000.0
+Нет опыта;3;"docker; kubernetes; linux";10;75000.0
+От 1 года до 3 лет;3;"bash; mongodb; postgresql";13;225000.0
+От 1 года до 3 лет;3;"kubernetes; postgresql; rabbitmq";11;225000.0
+От 1 года до 3 лет;3;"bash; postgresql; redis";10;222500.0
+От 1 года до 3 лет;3;"bash; kubernetes; redis";11;220000.0
+От 1 года до 3 лет;3;"elasticsearch; grafana; redis";11;220000.0
+От 1 года до 3 лет;3;"elasticsearch; kubernetes; redis";12;220000.0
+От 1 года до 3 лет;3;"jenkins; kubernetes; linux";13;220000.0
+От 1 года до 3 лет;3;"bash; elasticsearch; kubernetes";10;217500.0
+От 1 года до 3 лет;3;"elasticsearch; grafana; kubernetes";14;215000.0
+От 1 года до 3 лет;3;"elasticsearch; grafana; postgresql";10;212500.0
+От 1 года до 3 лет;3;"bash; elasticsearch; grafana";11;210000.0
+От 1 года до 3 лет;3;"bash; gitlab; prometheus";11;210000.0
+От 1 года до 3 лет;3;"grafana; helm; kubernetes";14;210000.0
+От 1 года до 3 лет;3;"grafana; kubernetes; redis";14;210000.0
+От 1 года до 3 лет;3;"kubernetes; postgresql; redis";12;210000.0
+От 1 года до 3 лет;3;"grafana; kubernetes; mongodb";12;202500.0
+От 1 года до 3 лет;3;"grafana; mongodb; postgresql";12;202500.0
+От 1 года до 3 лет;3;"bash; gitlab; grafana";11;200000.0
+От 1 года до 3 лет;3;"bash; gitlab; python";21;200000.0
+От 1 года до 3 лет;3;"bash; grafana; postgresql";15;200000.0
+От 1 года до 3 лет;3;"ci/cd; devops; kubernetes";19;200000.0
+От 1 года до 3 лет;3;"devops; docker; sql";13;200000.0
+От 1 года до 3 лет;3;"devops; docker; zabbix";14;200000.0
+От 1 года до 3 лет;3;"devops; gitlab; grafana";17;200000.0
+От 1 года до 3 лет;3;"devops; gitlab; kubernetes";20;200000.0
+От 1 года до 3 лет;3;"devops; grafana; zabbix";12;200000.0
+От 1 года до 3 лет;3;"docker; gitlab; zabbix";13;200000.0
+От 1 года до 3 лет;3;"docker; linux; redis";11;200000.0
+От 1 года до 3 лет;3;"elasticsearch; kubernetes; postgresql";11;200000.0
+От 1 года до 3 лет;3;"git; gitlab; postgresql";10;200000.0
+От 1 года до 3 лет;3;"gitlab; grafana; kubernetes";18;200000.0
+От 1 года до 3 лет;3;"gitlab; grafana; linux";23;200000.0
+От 1 года до 3 лет;3;"gitlab; grafana; prometheus";15;200000.0
+От 1 года до 3 лет;3;"gitlab; kubernetes; linux";31;200000.0
+От 1 года до 3 лет;3;"gitlab; kubernetes; prometheus";15;200000.0
+От 1 года до 3 лет;3;"gitlab; linux; prometheus";17;200000.0
+От 1 года до 3 лет;3;"gitlab; linux; terraform";11;200000.0
+От 1 года до 3 лет;3;"gitlab; prometheus; terraform";10;200000.0
+От 1 года до 3 лет;3;"grafana; postgresql; redis";11;200000.0
+От 1 года до 3 лет;3;"postgresql; rabbitmq; redis";11;200000.0
+От 1 года до 3 лет;3;"devops; docker; kubernetes";46;197500.0
+От 1 года до 3 лет;3;"devops; grafana; kubernetes";30;197500.0
+От 1 года до 3 лет;3;"bash; grafana; kubernetes";20;195000.0
+От 1 года до 3 лет;3;"devops; mysql; postgresql";12;195000.0
+От 1 года до 3 лет;3;"docker; kubernetes; администрирование серверов linux";13;195000.0
+От 1 года до 3 лет;3;"grafana; kubernetes; linux";37;195000.0
+От 1 года до 3 лет;3;"devops; kubernetes; linux";46;192500.0
+От 1 года до 3 лет;3;"ansible; docker; kubernetes";39;190000.0
+От 1 года до 3 лет;3;"ansible; docker; linux";49;190000.0
+От 1 года до 3 лет;3;"ansible; grafana; kubernetes";27;190000.0
+От 1 года до 3 лет;3;"bash; prometheus; python";11;190000.0
+От 1 года до 3 лет;3;"ci/cd; postgresql; администрирование серверов linux";12;190000.0
+От 1 года до 3 лет;3;"devops; docker; terraform";11;190000.0
+От 1 года до 3 лет;3;"devops; grafana; terraform";11;190000.0
+От 1 года до 3 лет;3;"devops; kubernetes; terraform";11;190000.0
+От 1 года до 3 лет;3;"docker; gitlab; grafana";24;190000.0
+От 1 года до 3 лет;3;"docker; gitlab; terraform";12;190000.0
+От 1 года до 3 лет;3;"docker; kubernetes; linux";67;190000.0
+От 1 года до 3 лет;3;"docker; kubernetes; zabbix";20;190000.0
+От 1 года до 3 лет;3;"docker; postgresql; redis";10;190000.0
+От 1 года до 3 лет;3;"git; gitlab; kubernetes";10;190000.0
+От 1 года до 3 лет;3;"gitlab; grafana; terraform";10;190000.0
+От 1 года до 3 лет;3;"gitlab; grafana; zabbix";10;190000.0
+От 1 года до 3 лет;3;"gitlab; kubernetes; zabbix";12;190000.0
+От 1 года до 3 лет;3;"grafana; kubernetes; zabbix";16;190000.0
+От 1 года до 3 лет;3;"kubernetes; linux; администрирование серверов linux";16;190000.0
+От 1 года до 3 лет;3;"kubernetes; mongodb; postgresql";13;190000.0
+От 1 года до 3 лет;3;"bash; gitlab; postgresql";16;187500.0
+От 1 года до 3 лет;3;"bash; gitlab; terraform";10;187500.0
+От 1 года до 3 лет;3;"bash; gitlab; администрирование серверов linux";10;187500.0
+От 1 года до 3 лет;3;"ci/cd; devops; gitlab";16;187500.0
+От 1 года до 3 лет;3;"ci/cd; linux; администрирование серверов linux";14;187500.0
+От 1 года до 3 лет;3;"docker; gitlab; python";18;187500.0
+От 1 года до 3 лет;3;"elk; gitlab; linux";12;187500.0
+От 1 года до 3 лет;3;"gitlab; linux; zabbix";12;187500.0
+От 1 года до 3 лет;3;"gitlab; postgresql; python";12;187500.0
+От 1 года до 3 лет;3;"ansible; ci/cd; kubernetes";20;185000.0
+От 1 года до 3 лет;3;"ansible; devops; kubernetes";29;185000.0
+От 1 года до 3 лет;3;"devops; kubernetes; администрирование серверов linux";13;185000.0
+От 1 года до 3 лет;3;"devops; linux; redis";10;185000.0
+От 1 года до 3 лет;3;"docker; helm; kubernetes";10;185000.0
+От 1 года до 3 лет;3;"grafana; kubernetes; postgresql";22;185000.0
+От 1 года до 3 лет;3;"bash; grafana; python";14;182500.0
+От 1 года до 3 лет;3;"ci/cd; linux; mongodb";10;182500.0
+От 1 года до 3 лет;3;"devops; grafana; linux";36;182500.0
+От 1 года до 3 лет;3;"devops; linux; администрирование";10;182500.0
+От 1 года до 3 лет;3;"docker; linux; terraform";14;182500.0
+От 1 года до 3 лет;3;"git; kubernetes; администрирование серверов linux";14;182500.0
+От 1 года до 3 лет;3;"grafana; linux; terraform";14;182500.0
+От 1 года до 3 лет;3;"kubernetes; linux; terraform";14;182500.0
+От 1 года до 3 лет;3;"kubernetes; postgresql; администрирование серверов linux";12;182500.0
+От 1 года до 3 лет;3;"linux; prometheus; terraform";12;182500.0
+От 1 года до 3 лет;3;"ansible; mysql; postgresql";13;180000.0
+От 1 года до 3 лет;3;"ci/cd; mongodb; postgresql";11;180000.0
+От 1 года до 3 лет;3;"docker; grafana; zabbix";21;180000.0
+От 1 года до 3 лет;3;"docker; jenkins; kubernetes";17;180000.0
+От 1 года до 3 лет;3;"docker; postgresql; terraform";11;180000.0
+От 1 года до 3 лет;3;"elk; gitlab; grafana";11;180000.0
+От 1 года до 3 лет;3;"gitlab; kubernetes; terraform";11;180000.0
+От 1 года до 3 лет;3;"kubernetes; linux; zabbix";24;180000.0
+От 1 года до 3 лет;3;"ansible; ci/cd; elk";10;177500.0
+От 1 года до 3 лет;3;"ansible; docker; администрирование серверов linux";10;177500.0
+От 1 года до 3 лет;3;"ansible; gitlab; zabbix";12;177500.0
+От 1 года до 3 лет;3;"ci/cd; git; администрирование серверов linux";14;177500.0
+От 1 года до 3 лет;3;"ci/cd; grafana; kubernetes";22;177500.0
+От 1 года до 3 лет;3;"docker; gitlab; mysql";10;177500.0
+От 1 года до 3 лет;3;"docker; gitlab; prometheus";16;177500.0
+От 1 года до 3 лет;3;"docker; grafana; terraform";16;177500.0
+От 1 года до 3 лет;3;"docker; postgresql; администрирование серверов linux";12;177500.0
+От 1 года до 3 лет;3;"docker; prometheus; terraform";14;177500.0
+От 1 года до 3 лет;3;"elk; gitlab; kubernetes";12;177500.0
+От 1 года до 3 лет;3;"elk; gitlab; prometheus";10;177500.0
+От 1 года до 3 лет;3;"elk; prometheus; terraform";10;177500.0
+От 1 года до 3 лет;3;"git; gitlab; администрирование серверов linux";12;177500.0
+От 1 года до 3 лет;3;"grafana; kubernetes; terraform";16;177500.0
+От 1 года до 3 лет;3;"grafana; mysql; postgresql";12;177500.0
+От 1 года до 3 лет;3;"grafana; prometheus; terraform";16;177500.0
+От 1 года до 3 лет;3;"kubernetes; postgresql; terraform";10;177500.0
+От 1 года до 3 лет;3;"kubernetes; prometheus; terraform";14;177500.0
+От 1 года до 3 лет;3;"docker; kubernetes; sql";13;175800.0
+От 1 года до 3 лет;3;"ci/cd; mysql; postgresql";16;175400.0
+От 1 года до 3 лет;3;"docker; mysql; postgresql";20;175400.0
+От 1 года до 3 лет;3;"ansible; bash; kubernetes";21;175000.0
+От 1 года до 3 лет;3;"ansible; bash; linux";21;175000.0
+От 1 года до 3 лет;3;"ansible; ci/cd; devops";17;175000.0
+От 1 года до 3 лет;3;"ansible; ci/cd; docker";25;175000.0
+От 1 года до 3 лет;3;"ansible; ci/cd; mysql";11;175000.0
+От 1 года до 3 лет;3;"ansible; devops; docker";35;175000.0
+От 1 года до 3 лет;3;"ansible; docker; gitlab";24;175000.0
+От 1 года до 3 лет;3;"ansible; docker; nginx";19;175000.0
+От 1 года до 3 лет;3;"ansible; docker; terraform";17;175000.0
+От 1 года до 3 лет;3;"ansible; docker; zabbix";21;175000.0
+От 1 года до 3 лет;3;"ansible; gitlab; kubernetes";17;175000.0
+От 1 года до 3 лет;3;"ansible; kubernetes; linux";38;175000.0
+От 1 года до 3 лет;3;"ansible; kubernetes; nginx";15;175000.0
+От 1 года до 3 лет;3;"ansible; linux; terraform";14;175000.0
+От 1 года до 3 лет;3;"ansible; mysql; nginx";15;175000.0
+От 1 года до 3 лет;3;"ansible; nginx; terraform";10;175000.0
+От 1 года до 3 лет;3;"bash; ci/cd; gitlab";17;175000.0
+От 1 года до 3 лет;3;"bash; ci/cd; администрирование серверов linux";11;175000.0
+От 1 года до 3 лет;3;"bash; docker; gitlab";22;175000.0
+От 1 года до 3 лет;3;"bash; docker; grafana";21;175000.0
+От 1 года до 3 лет;3;"bash; docker; prometheus";19;175000.0
+От 1 года до 3 лет;3;"bash; docker; terraform";15;175000.0
+От 1 года до 3 лет;3;"bash; docker; zabbix";13;175000.0
+От 1 года до 3 лет;3;"bash; git; gitlab";15;175000.0
+От 1 года до 3 лет;3;"bash; gitlab; linux";25;175000.0
+От 1 года до 3 лет;3;"bash; kubernetes; zabbix";11;175000.0
+От 1 года до 3 лет;3;"bash; linux; prometheus";15;175000.0
+От 1 года до 3 лет;3;"bash; linux; terraform";11;175000.0
+От 1 года до 3 лет;3;"bash; prometheus; terraform";11;175000.0
+От 1 года до 3 лет;3;"bash; python; администрирование серверов linux";11;175000.0
+От 1 года до 3 лет;3;"ci/cd; devops; grafana";19;175000.0
+От 1 года до 3 лет;3;"ci/cd; docker; elk";12;175000.0
+От 1 года до 3 лет;3;"ci/cd; docker; kubernetes";39;175000.0
+От 1 года до 3 лет;3;"ci/cd; docker; mysql";15;175000.0
+От 1 года до 3 лет;3;"ci/cd; docker; rabbitmq";11;175000.0
+От 1 года до 3 лет;3;"ci/cd; docker; terraform";11;175000.0
+От 1 года до 3 лет;3;"ci/cd; docker; zabbix";12;175000.0
+От 1 года до 3 лет;3;"ci/cd; elk; linux";10;175000.0
+От 1 года до 3 лет;3;"ci/cd; elk; zabbix";10;175000.0
+От 1 года до 3 лет;3;"ci/cd; git; gitlab";15;175000.0
+От 1 года до 3 лет;3;"ci/cd; git; postgresql";21;175000.0
+От 1 года до 3 лет;3;"ci/cd; gitlab; grafana";14;175000.0
+От 1 года до 3 лет;3;"ci/cd; gitlab; linux";27;175000.0
+От 1 года до 3 лет;3;"ci/cd; gitlab; postgresql";18;175000.0
+От 1 года до 3 лет;3;"ci/cd; gitlab; python";18;175000.0
+От 1 года до 3 лет;3;"ci/cd; kubernetes; terraform";11;175000.0
+От 1 года до 3 лет;3;"ci/cd; kubernetes; zabbix";11;175000.0
+От 1 года до 3 лет;3;"ci/cd; mysql; nginx";15;175000.0
+От 1 года до 3 лет;3;"ci/cd; postgresql; python";19;175000.0
+От 1 года до 3 лет;3;"devops; docker; gitlab";25;175000.0
+От 1 года до 3 лет;3;"devops; gitlab; prometheus";10;175000.0
+От 1 года до 3 лет;3;"devops; grafana; python";11;175000.0
+От 1 года до 3 лет;3;"docker; elk; zabbix";14;175000.0
+От 1 года до 3 лет;3;"docker; gitlab; kubernetes";33;175000.0
+От 1 года до 3 лет;3;"docker; gitlab; linux";38;175000.0
+От 1 года до 3 лет;3;"docker; grafana; jenkins";11;175000.0
+От 1 года до 3 лет;3;"docker; grafana; kubernetes";41;175000.0
+От 1 года до 3 лет;3;"docker; grafana; redis";10;175000.0
+От 1 года до 3 лет;3;"docker; jenkins; linux";13;175000.0
+От 1 года до 3 лет;3;"docker; kubernetes; terraform";18;175000.0
+От 1 года до 3 лет;3;"docker; linux; zabbix";23;175000.0
+От 1 года до 3 лет;3;"docker; nginx; zabbix";14;175000.0
+От 1 года до 3 лет;3;"docker; postgresql; python";23;175000.0
+От 1 года до 3 лет;3;"docker; postgresql; zabbix";15;175000.0
+От 1 года до 3 лет;3;"docker; prometheus; python";17;175000.0
+От 1 года до 3 лет;3;"elk; grafana; kubernetes";13;175000.0
+От 1 года до 3 лет;3;"git; gitlab; linux";20;175000.0
+От 1 года до 3 лет;3;"git; gitlab; python";15;175000.0
+От 1 года до 3 лет;3;"git; postgresql; администрирование серверов linux";19;175000.0
+От 1 года до 3 лет;3;"gitlab; grafana; python";12;175000.0
+От 1 года до 3 лет;3;"gitlab; kubernetes; nginx";12;175000.0
+От 1 года до 3 лет;3;"gitlab; linux; postgresql";20;175000.0
+От 1 года до 3 лет;3;"gitlab; linux; python";24;175000.0
+От 1 года до 3 лет;3;"gitlab; linux; администрирование серверов linux";11;175000.0
+От 1 года до 3 лет;3;"grafana; jenkins; kubernetes";11;175000.0
+От 1 года до 3 лет;3;"grafana; linux; zabbix";17;175000.0
+От 1 года до 3 лет;3;"jenkins; kubernetes; zabbix";11;175000.0
+От 1 года до 3 лет;3;"kubernetes; mysql; postgresql";15;175000.0
+От 1 года до 3 лет;3;"linux; mongodb; postgresql";11;175000.0
+От 1 года до 3 лет;3;"mysql; nginx; postgresql";20;175000.0
+От 1 года до 3 лет;3;"docker; elasticsearch; kubernetes";10;172900.0
+От 1 года до 3 лет;3;"docker; grafana; postgresql";20;172500.0
+От 1 года до 3 лет;3;"elk; grafana; linux";14;172500.0
+От 1 года до 3 лет;3;"ansible; bash; gitlab";11;170000.0
+От 1 года до 3 лет;3;"ansible; bash; zabbix";11;170000.0
+От 1 года до 3 лет;3;"ansible; docker; elk";17;170000.0
+От 1 года до 3 лет;3;"ansible; grafana; terraform";15;170000.0
+От 1 года до 3 лет;3;"ansible; kubernetes; terraform";15;170000.0
+От 1 года до 3 лет;3;"bash; linux; zabbix";13;170000.0
+От 1 года до 3 лет;3;"devops; docker; grafana";41;170000.0
+От 1 года до 3 лет;3;"devops; gitlab; linux";29;170000.0
+От 1 года до 3 лет;3;"docker; elk; grafana";14;170000.0
+От 1 года до 3 лет;3;"docker; elk; kubernetes";18;170000.0
+От 1 года до 3 лет;3;"docker; elk; linux";19;170000.0
+От 1 года до 3 лет;3;"docker; linux; postgresql";43;170000.0
+От 1 года до 3 лет;3;"elk; grafana; prometheus";13;170000.0
+От 1 года до 3 лет;3;"elk; kubernetes; linux";17;170000.0
+От 1 года до 3 лет;3;"grafana; kubernetes; prometheus";29;170000.0
+От 1 года до 3 лет;3;"grafana; linux; postgresql";15;170000.0
+От 1 года до 3 лет;3;"ansible; ci/cd; grafana";22;167500.0
+От 1 года до 3 лет;3;"ansible; ci/cd; linux";26;167500.0
+От 1 года до 3 лет;3;"ansible; ci/cd; nginx";14;167500.0
+От 1 года до 3 лет;3;"ansible; ci/cd; postgresql";16;167500.0
+От 1 года до 3 лет;3;"ansible; grafana; postgresql";16;167500.0
+От 1 года до 3 лет;3;"ansible; nginx; postgresql";18;167500.0
+От 1 года до 3 лет;3;"ansible; postgresql; terraform";10;167500.0
+От 1 года до 3 лет;3;"bash; c++; cmake";12;167500.0
+От 1 года до 3 лет;3;"bash; c++; python";12;167500.0
+От 1 года до 3 лет;3;"bash; cmake; python";17;167500.0
+От 1 года до 3 лет;3;"bash; postgresql; python";20;167500.0
+От 1 года до 3 лет;3;"c++; cmake; python";12;167500.0
+От 1 года до 3 лет;3;"ci/cd; gitlab; nginx";12;167500.0
+От 1 года до 3 лет;3;"ci/cd; grafana; postgresql";12;167500.0
+От 1 года до 3 лет;3;"ci/cd; grafana; terraform";12;167500.0
+От 1 года до 3 лет;3;"ci/cd; grafana; zabbix";12;167500.0
+От 1 года до 3 лет;3;"ci/cd; mysql; python";10;167500.0
+От 1 года до 3 лет;3;"devops; kubernetes; zabbix";18;167500.0
+От 1 года до 3 лет;3;"elk; grafana; zabbix";10;167500.0
+От 1 года до 3 лет;3;"elk; linux; zabbix";16;167500.0
+От 1 года до 3 лет;3;"gitlab; nginx; postgresql";12;167500.0
+От 1 года до 3 лет;3;"grafana; nginx; postgresql";16;167500.0
+От 1 года до 3 лет;3;"grafana; nginx; zabbix";10;167500.0
+От 1 года до 3 лет;3;"grafana; postgresql; terraform";10;167500.0
+От 1 года до 3 лет;3;"linux; mysql; postgresql";18;167500.0
+От 1 года до 3 лет;3;"mysql; postgresql; python";10;167500.0
+От 1 года до 3 лет;3;"ansible; elk; grafana";14;165000.0
+От 1 года до 3 лет;3;"ansible; kubernetes; администрирование серверов linux";12;165000.0
+От 1 года до 3 лет;3;"ansible; prometheus; terraform";12;165000.0
+От 1 года до 3 лет;3;"bash; git; администрирование серверов linux";12;165000.0
+От 1 года до 3 лет;3;"bash; postgresql; администрирование серверов linux";12;165000.0
+От 1 года до 3 лет;3;"ci/cd; devops; docker";30;165000.0
+От 1 года до 3 лет;3;"docker; grafana; администрирование серверов linux";10;165000.0
+От 1 года до 3 лет;3;"docker; linux; rabbitmq";12;165000.0
+От 1 года до 3 лет;3;"git; linux; администрирование серверов linux";26;165000.0
+От 1 года до 3 лет;3;"git; python; администрирование серверов linux";16;165000.0
+От 1 года до 3 лет;3;"linux; postgresql; администрирование серверов linux";24;165000.0
+От 1 года до 3 лет;3;"ansible; bash; docker";24;162500.0
+От 1 года до 3 лет;3;"ansible; bash; nginx";10;162500.0
+От 1 года до 3 лет;3;"ansible; ci/cd; gitlab";12;162500.0
+От 1 года до 3 лет;3;"ansible; docker; postgresql";20;162500.0
+От 1 года до 3 лет;3;"ansible; elk; gitlab";10;162500.0
+От 1 года до 3 лет;3;"ansible; gitlab; grafana";18;162500.0
+От 1 года до 3 лет;3;"bash; grafana; linux";16;162500.0
+От 1 года до 3 лет;3;"bash; grafana; prometheus";16;162500.0
+От 1 года до 3 лет;3;"bash; kubernetes; prometheus";14;162500.0
+От 1 года до 3 лет;3;"bash; kubernetes; terraform";14;162500.0
+От 1 года до 3 лет;3;"ci/cd; elk; kubernetes";10;162500.0
+От 1 года до 3 лет;3;"ci/cd; gitlab; kubernetes";20;162500.0
+От 1 года до 3 лет;3;"ci/cd; kubernetes; mysql";12;162500.0
+От 1 года до 3 лет;3;"devops; docker; mysql";14;162500.0
+От 1 года до 3 лет;3;"devops; elasticsearch; kubernetes";10;162500.0
+От 1 года до 3 лет;3;"devops; jenkins; kubernetes";10;162500.0
+От 1 года до 3 лет;3;"devops; kubernetes; mysql";10;162500.0
+От 1 года до 3 лет;3;"docker; git; postgresql";24;162500.0
+От 1 года до 3 лет;3;"docker; gitlab; postgresql";20;162500.0
+От 1 года до 3 лет;3;"docker; jenkins; zabbix";10;162500.0
+От 1 года до 3 лет;3;"docker; mysql; nginx";20;162500.0
+От 1 года до 3 лет;3;"docker; mysql; zabbix";10;162500.0
+От 1 года до 3 лет;3;"docker; python; zabbix";10;162500.0
+От 1 года до 3 лет;3;"elk; kubernetes; python";10;162500.0
+От 1 года до 3 лет;3;"gitlab; kubernetes; python";10;162500.0
+От 1 года до 3 лет;3;"grafana; kubernetes; mysql";12;162500.0
+От 1 года до 3 лет;3;"grafana; prometheus; python";16;162500.0
+От 1 года до 3 лет;3;"kubernetes; linux; redis";10;162500.0
+От 1 года до 3 лет;3;"kubernetes; prometheus; python";18;162500.0
+От 1 года до 3 лет;3;"ansible; grafana; nginx";15;160000.0
+От 1 года до 3 лет;3;"ansible; grafana; zabbix";17;160000.0
+От 1 года до 3 лет;3;"ansible; nginx; zabbix";11;160000.0
+От 1 года до 3 лет;3;"ci/cd; devops; linux";29;160000.0
+От 1 года до 3 лет;3;"ci/cd; devops; nginx";15;160000.0
+От 1 года до 3 лет;3;"ci/cd; devops; python";17;160000.0
+От 1 года до 3 лет;3;"ci/cd; linux; postgresql";33;160000.0
+От 1 года до 3 лет;3;"ci/cd; linux; python";29;160000.0
+От 1 года до 3 лет;3;"ci/cd; linux; rabbitmq";12;160000.0
+От 1 года до 3 лет;3;"ci/cd; postgresql; rabbitmq";12;160000.0
+От 1 года до 3 лет;3;"devops; docker; linux";59;160000.0
+От 1 года до 3 лет;3;"devops; gitlab; python";13;160000.0
+От 1 года до 3 лет;3;"devops; kubernetes; prometheus";26;160000.0
+От 1 года до 3 лет;3;"devops; linux; mysql";15;160000.0
+От 1 года до 3 лет;3;"devops; mysql; nginx";13;160000.0
+От 1 года до 3 лет;3;"devops; nginx; python";13;160000.0
+От 1 года до 3 лет;3;"docker; elasticsearch; grafana";10;160000.0
+От 1 года до 3 лет;3;"docker; nginx; redis";10;160000.0
+От 1 года до 3 лет;3;"elk; kubernetes; prometheus";16;160000.0
+От 1 года до 3 лет;3;"gitlab; linux; nginx";15;160000.0
+От 1 года до 3 лет;3;"grafana; postgresql; prometheus";13;160000.0
+От 1 года до 3 лет;3;"grafana; postgresql; zabbix";13;160000.0
+От 1 года до 3 лет;3;"linux; nginx; python";25;160000.0
+От 1 года до 3 лет;3;"linux; postgresql; python";33;160000.0
+От 1 года до 3 лет;3;"bash; devops; gitlab";10;157500.0
+От 1 года до 3 лет;3;"bash; linux; python";32;157500.0
+От 1 года до 3 лет;3;"ci/cd; devops; postgresql";14;157500.0
+От 1 года до 3 лет;3;"ci/cd; nginx; rabbitmq";10;157500.0
+От 1 года до 3 лет;3;"devops; git; sql";10;157500.0
+От 1 года до 3 лет;3;"docker; git; terraform";10;157500.0
+От 1 года до 3 лет;3;"git; mysql; postgresql";10;157500.0
+От 1 года до 3 лет;3;"linux; nginx; rabbitmq";12;157500.0
+От 1 года до 3 лет;3;"linux; postgresql; rabbitmq";12;157500.0
+От 1 года до 3 лет;3;"nginx; postgresql; python";18;157500.0
+От 1 года до 3 лет;3;"ansible; ci/cd; terraform";10;155000.0
+От 1 года до 3 лет;3;"ansible; ci/cd; zabbix";14;155000.0
+От 1 года до 3 лет;3;"ansible; git; gitlab";12;155000.0
+От 1 года до 3 лет;3;"ansible; linux; nginx";20;155000.0
+От 1 года до 3 лет;3;"bash; ci/cd; devops";14;155000.0
+От 1 года до 3 лет;3;"bash; ci/cd; git";18;155000.0
+От 1 года до 3 лет;3;"bash; ci/cd; linux";26;155000.0
+От 1 года до 3 лет;3;"bash; ci/cd; postgresql";20;155000.0
+От 1 года до 3 лет;3;"bash; ci/cd; python";21;155000.0
+От 1 года до 3 лет;3;"bash; devops; docker";26;155000.0
+От 1 года до 3 лет;3;"bash; devops; kubernetes";19;155000.0
+От 1 года до 3 лет;3;"bash; devops; python";15;155000.0
+От 1 года до 3 лет;3;"bash; docker; linux";40;155000.0
+От 1 года до 3 лет;3;"bash; docker; python";30;155000.0
+От 1 года до 3 лет;3;"bash; docker; администрирование серверов linux";10;155000.0
+От 1 года до 3 лет;3;"bash; git; linux";28;155000.0
+От 1 года до 3 лет;3;"bash; git; postgresql";18;155000.0
+От 1 года до 3 лет;3;"bash; git; python";21;155000.0
+От 1 года до 3 лет;3;"bash; linux; администрирование серверов linux";15;155000.0
+От 1 года до 3 лет;3;"bash; nginx; python";13;155000.0
+От 1 года до 3 лет;3;"bash; postgresql; rabbitmq";11;155000.0
+От 1 года до 3 лет;3;"ci/cd; docker; linux";46;155000.0
+От 1 года до 3 лет;3;"ci/cd; docker; postgresql";29;155000.0
+От 1 года до 3 лет;3;"ci/cd; docker; администрирование серверов linux";11;155000.0
+От 1 года до 3 лет;3;"ci/cd; git; linux";31;155000.0
+От 1 года до 3 лет;3;"ci/cd; git; python";21;155000.0
+От 1 года до 3 лет;3;"ci/cd; grafana; nginx";12;155000.0
+От 1 года до 3 лет;3;"ci/cd; linux; mysql";14;155000.0
+От 1 года до 3 лет;3;"ci/cd; linux; nginx";30;155000.0
+От 1 года до 3 лет;3;"ci/cd; linux; terraform";10;155000.0
+От 1 года до 3 лет;3;"ci/cd; linux; zabbix";14;155000.0
+От 1 года до 3 лет;3;"ci/cd; nginx; postgresql";26;155000.0
+От 1 года до 3 лет;3;"ci/cd; nginx; python";17;155000.0
+От 1 года до 3 лет;3;"devops; docker; postgresql";27;155000.0
+От 1 года до 3 лет;3;"devops; docker; python";23;155000.0
+От 1 года до 3 лет;3;"devops; docker; администрирование серверов linux";15;155000.0
+От 1 года до 3 лет;3;"devops; git; python";25;155000.0
+От 1 года до 3 лет;3;"devops; linux; nginx";28;155000.0
+От 1 года до 3 лет;3;"devops; linux; postgresql";33;155000.0
+От 1 года до 3 лет;3;"devops; linux; python";29;155000.0
+От 1 года до 3 лет;3;"devops; nginx; postgresql";23;155000.0
+От 1 года до 3 лет;3;"devops; postgresql; python";18;155000.0
+От 1 года до 3 лет;3;"devops; prometheus; python";12;155000.0
+От 1 года до 3 лет;3;"devops; python; администрирование серверов linux";11;155000.0
+От 1 года до 3 лет;3;"docker; git; администрирование серверов linux";19;155000.0
+От 1 года до 3 лет;3;"docker; linux; nginx";44;155000.0
+От 1 года до 3 лет;3;"docker; linux; python";46;155000.0
+От 1 года до 3 лет;3;"docker; linux; администрирование серверов linux";20;155000.0
+От 1 года до 3 лет;3;"docker; nginx; postgresql";34;155000.0
+От 1 года до 3 лет;3;"docker; nginx; python";22;155000.0
+От 1 года до 3 лет;3;"docker; nginx; rabbitmq";10;155000.0
+От 1 года до 3 лет;3;"docker; postgresql; rabbitmq";11;155000.0
+От 1 года до 3 лет;3;"git; linux; postgresql";34;155000.0
+От 1 года до 3 лет;3;"git; nginx; администрирование серверов linux";12;155000.0
+От 1 года до 3 лет;3;"git; postgresql; python";25;155000.0
+От 1 года до 3 лет;3;"linux; python; администрирование серверов linux";17;155000.0
+От 1 года до 3 лет;3;"mysql; nginx; python";10;155000.0
+От 1 года до 3 лет;3;"nginx; postgresql; prometheus";10;155000.0
+От 1 года до 3 лет;3;"nginx; postgresql; rabbitmq";10;155000.0
+От 1 года до 3 лет;3;"nginx; postgresql; администрирование серверов linux";12;155000.0
+От 1 года до 3 лет;3;"postgresql; python; администрирование серверов linux";13;155000.0
+От 1 года до 3 лет;3;"bash; docker; nginx";24;152500.0
+От 1 года до 3 лет;3;"bash; docker; postgresql";24;152500.0
+От 1 года до 3 лет;3;"bash; kubernetes; linux";32;152500.0
+От 1 года до 3 лет;3;"bash; linux; postgresql";28;152500.0
+От 1 года до 3 лет;3;"ci/cd; docker; nginx";28;152500.0
+От 1 года до 3 лет;3;"git; nginx; postgresql";18;152500.0
+От 1 года до 3 лет;3;"linux; nginx; postgresql";36;152500.0
+От 1 года до 3 лет;3;"ansible; bash; ci/cd";10;150000.0
+От 1 года до 3 лет;3;"ansible; bash; grafana";14;150000.0
+От 1 года до 3 лет;3;"ansible; bash; python";14;150000.0
+От 1 года до 3 лет;3;"ansible; bash; terraform";11;150000.0
+От 1 года до 3 лет;3;"ansible; ci/cd; prometheus";11;150000.0
+От 1 года до 3 лет;3;"ansible; ci/cd; python";11;150000.0
+От 1 года до 3 лет;3;"ansible; devops; gitlab";15;150000.0
+От 1 года до 3 лет;3;"ansible; devops; linux";37;150000.0
+От 1 года до 3 лет;3;"ansible; devops; zabbix";17;150000.0
+От 1 года до 3 лет;3;"ansible; docker; grafana";35;150000.0
+От 1 года до 3 лет;3;"ansible; docker; jenkins";13;150000.0
+От 1 года до 3 лет;3;"ansible; docker; python";23;150000.0
+От 1 года до 3 лет;3;"ansible; elk; kubernetes";19;150000.0
+От 1 года до 3 лет;3;"ansible; elk; linux";18;150000.0
+От 1 года до 3 лет;3;"ansible; elk; postgresql";14;150000.0
+От 1 года до 3 лет;3;"ansible; elk; zabbix";16;150000.0
+От 1 года до 3 лет;3;"ansible; gitlab; linux";23;150000.0
+От 1 года до 3 лет;3;"ansible; gitlab; prometheus";13;150000.0
+От 1 года до 3 лет;3;"ansible; gitlab; python";11;150000.0
+От 1 года до 3 лет;3;"ansible; grafana; linux";32;150000.0
+От 1 года до 3 лет;3;"ansible; grafana; python";14;150000.0
+От 1 года до 3 лет;3;"ansible; jenkins; kubernetes";11;150000.0
+От 1 года до 3 лет;3;"ansible; kubernetes; mysql";11;150000.0
+От 1 года до 3 лет;3;"ansible; kubernetes; postgresql";25;150000.0
+От 1 года до 3 лет;3;"ansible; kubernetes; prometheus";27;150000.0
+От 1 года до 3 лет;3;"ansible; kubernetes; python";16;150000.0
+От 1 года до 3 лет;3;"ansible; kubernetes; zabbix";23;150000.0
+От 1 года до 3 лет;3;"ansible; linux; postgresql";25;150000.0
+От 1 года до 3 лет;3;"ansible; linux; python";26;150000.0
+От 1 года до 3 лет;3;"ansible; linux; zabbix";24;150000.0
+От 1 года до 3 лет;3;"ansible; postgresql; zabbix";19;150000.0
+От 1 года до 3 лет;3;"ansible; python; zabbix";15;150000.0
+От 1 года до 3 лет;3;"bash; ci/cd; docker";26;150000.0
+От 1 года до 3 лет;3;"bash; ci/cd; grafana";13;150000.0
+От 1 года до 3 лет;3;"bash; ci/cd; kubernetes";18;150000.0
+От 1 года до 3 лет;3;"bash; ci/cd; nginx";15;150000.0
+От 1 года до 3 лет;3;"bash; docker; jenkins";11;150000.0
+От 1 года до 3 лет;3;"bash; docker; kubernetes";35;150000.0
+От 1 года до 3 лет;3;"bash; gitlab; kubernetes";17;150000.0
+От 1 года до 3 лет;3;"bash; gitlab; nginx";10;150000.0
+От 1 года до 3 лет;3;"bash; grafana; terraform";11;150000.0
+От 1 года до 3 лет;3;"bash; kubernetes; nginx";17;150000.0
+От 1 года до 3 лет;3;"bash; kubernetes; postgresql";22;150000.0
+От 1 года до 3 лет;3;"bash; kubernetes; python";16;150000.0
+От 1 года до 3 лет;3;"bash; linux; nginx";25;150000.0
+От 1 года до 3 лет;3;"bash; nginx; postgresql";23;150000.0
+От 1 года до 3 лет;3;"ci/cd; devops; git";18;150000.0
+От 1 года до 3 лет;3;"ci/cd; docker; gitlab";24;150000.0
+От 1 года до 3 лет;3;"ci/cd; docker; grafana";27;150000.0
+От 1 года до 3 лет;3;"ci/cd; docker; python";27;150000.0
+От 1 года до 3 лет;3;"ci/cd; grafana; linux";24;150000.0
+От 1 года до 3 лет;3;"ci/cd; grafana; prometheus";18;150000.0
+От 1 года до 3 лет;3;"ci/cd; grafana; python";15;150000.0
+От 1 года до 3 лет;3;"ci/cd; kubernetes; linux";34;150000.0
+От 1 года до 3 лет;3;"ci/cd; kubernetes; nginx";21;150000.0
+От 1 года до 3 лет;3;"ci/cd; kubernetes; postgresql";24;150000.0
+От 1 года до 3 лет;3;"ci/cd; kubernetes; python";13;150000.0
+От 1 года до 3 лет;3;"devops; elk; kubernetes";15;150000.0
+От 1 года до 3 лет;3;"devops; grafana; postgresql";15;150000.0
+От 1 года до 3 лет;3;"devops; kubernetes; postgresql";23;150000.0
+От 1 года до 3 лет;3;"devops; linux; zabbix";19;150000.0
+От 1 года до 3 лет;3;"docker; elk; gitlab";13;150000.0
+От 1 года до 3 лет;3;"docker; elk; postgresql";13;150000.0
+От 1 года до 3 лет;3;"docker; elk; prometheus";13;150000.0
+От 1 года до 3 лет;3;"docker; gitlab; nginx";15;150000.0
+От 1 года до 3 лет;3;"docker; grafana; linux";47;150000.0
+От 1 года до 3 лет;3;"docker; grafana; python";25;150000.0
+От 1 года до 3 лет;3;"docker; kubernetes; mysql";17;150000.0
+От 1 года до 3 лет;3;"docker; kubernetes; nginx";30;150000.0
+От 1 года до 3 лет;3;"docker; kubernetes; postgresql";36;150000.0
+От 1 года до 3 лет;3;"docker; kubernetes; prometheus";31;150000.0
+От 1 года до 3 лет;3;"docker; kubernetes; python";25;150000.0
+От 1 года до 3 лет;3;"docker; kubernetes; redis";13;150000.0
+От 1 года до 3 лет;3;"docker; postgresql; prometheus";14;150000.0
+От 1 года до 3 лет;3;"elk; kubernetes; postgresql";17;150000.0
+От 1 года до 3 лет;3;"elk; kubernetes; zabbix";16;150000.0
+От 1 года до 3 лет;3;"elk; linux; postgresql";15;150000.0
+От 1 года до 3 лет;3;"elk; linux; prometheus";17;150000.0
+От 1 года до 3 лет;3;"elk; linux; python";11;150000.0
+От 1 года до 3 лет;3;"elk; postgresql; prometheus";14;150000.0
+От 1 года до 3 лет;3;"elk; postgresql; zabbix";14;150000.0
+От 1 года до 3 лет;3;"gitlab; kubernetes; postgresql";17;150000.0
+От 1 года до 3 лет;3;"grafana; kubernetes; python";15;150000.0
+От 1 года до 3 лет;3;"grafana; linux; prometheus";33;150000.0
+От 1 года до 3 лет;3;"grafana; linux; python";22;150000.0
+От 1 года до 3 лет;3;"grafana; mysql; nginx";13;150000.0
+От 1 года до 3 лет;3;"grafana; prometheus; zabbix";11;150000.0
+От 1 года до 3 лет;3;"kubernetes; linux; mysql";15;150000.0
+От 1 года до 3 лет;3;"kubernetes; linux; nginx";27;150000.0
+От 1 года до 3 лет;3;"kubernetes; linux; postgresql";36;150000.0
+От 1 года до 3 лет;3;"kubernetes; linux; prometheus";33;150000.0
+От 1 года до 3 лет;3;"kubernetes; mysql; nginx";13;150000.0
+От 1 года до 3 лет;3;"kubernetes; nginx; postgresql";22;150000.0
+От 1 года до 3 лет;3;"kubernetes; python; zabbix";12;150000.0
+От 1 года до 3 лет;3;"linux; nginx; zabbix";16;150000.0
+От 1 года до 3 лет;3;"linux; prometheus; python";22;150000.0
+От 1 года до 3 лет;3;"linux; python; zabbix";15;150000.0
+От 1 года до 3 лет;3;"nginx; postgresql; zabbix";16;150000.0
+От 1 года до 3 лет;3;"ansible; bash; postgresql";10;145000.0
+От 1 года до 3 лет;3;"ansible; postgresql; python";12;145000.0
+От 1 года до 3 лет;3;"bash; devops; linux";25;145000.0
+От 1 года до 3 лет;3;"ci/cd; docker; git";29;145000.0
+От 1 года до 3 лет;3;"ci/cd; kubernetes; prometheus";16;145000.0
+От 1 года до 3 лет;3;"devops; docker; nginx";24;145000.0
+От 1 года до 3 лет;3;"devops; git; gitlab";15;145000.0
+От 1 года до 3 лет;3;"devops; git; postgresql";20;145000.0
+От 1 года до 3 лет;3;"docker; grafana; prometheus";36;145000.0
+От 1 года до 3 лет;3;"kubernetes; linux; python";29;145000.0
+От 1 года до 3 лет;3;"kubernetes; nginx; python";14;145000.0
+От 1 года до 3 лет;3;"kubernetes; postgresql; zabbix";18;145000.0
+От 1 года до 3 лет;3;"linux; mysql; nginx";20;145000.0
+От 1 года до 3 лет;3;"ansible; devops; postgresql";18;142500.0
+От 1 года до 3 лет;3;"ansible; docker; mysql";18;142500.0
+От 1 года до 3 лет;3;"ansible; elk; prometheus";16;142500.0
+От 1 года до 3 лет;3;"bash; postgresql; zabbix";10;142500.0
+От 1 года до 3 лет;3;"ci/cd; git; kubernetes";20;142500.0
+От 1 года до 3 лет;3;"ci/cd; nginx; prometheus";10;142500.0
+От 1 года до 3 лет;3;"devops; docker; elk";12;142500.0
+От 1 года до 3 лет;3;"devops; git; kubernetes";26;142500.0
+От 1 года до 3 лет;3;"docker; git; gitlab";16;142500.0
+От 1 года до 3 лет;3;"docker; git; kubernetes";34;142500.0
+От 1 года до 3 лет;3;"docker; prometheus; zabbix";14;142500.0
+От 1 года до 3 лет;3;"linux; postgresql; prometheus";18;142500.0
+От 1 года до 3 лет;3;"ansible; ci/cd; git";11;140000.0
+От 1 года до 3 лет;3;"ansible; devops; python";17;140000.0
+От 1 года до 3 лет;3;"ansible; git; python";15;140000.0
+От 1 года до 3 лет;3;"bash; devops; git";20;140000.0
+От 1 года до 3 лет;3;"bash; docker; git";26;140000.0
+От 1 года до 3 лет;3;"bash; docker; mysql";10;140000.0
+От 1 года до 3 лет;3;"bash; git; kubernetes";18;140000.0
+От 1 года до 3 лет;3;"bash; git; nginx";13;140000.0
+От 1 года до 3 лет;3;"bash; kubernetes; mysql";10;140000.0
+От 1 года до 3 лет;3;"bash; linux; mysql";10;140000.0
+От 1 года до 3 лет;3;"ci/cd; docker; prometheus";15;140000.0
+От 1 года до 3 лет;3;"ci/cd; git; nginx";16;140000.0
+От 1 года до 3 лет;3;"ci/cd; linux; prometheus";15;140000.0
+От 1 года до 3 лет;3;"devops; docker; git";38;140000.0
+От 1 года до 3 лет;3;"devops; docker; prometheus";23;140000.0
+От 1 года до 3 лет;3;"devops; grafana; prometheus";25;140000.0
+От 1 года до 3 лет;3;"devops; linux; sql";15;140000.0
+От 1 года до 3 лет;3;"docker; git; linux";51;140000.0
+От 1 года до 3 лет;3;"docker; git; mysql";14;140000.0
+От 1 года до 3 лет;3;"docker; git; nginx";25;140000.0
+От 1 года до 3 лет;3;"docker; git; python";28;140000.0
+От 1 года до 3 лет;3;"docker; git; sql";15;140000.0
+От 1 года до 3 лет;3;"docker; linux; mysql";23;140000.0
+От 1 года до 3 лет;3;"docker; linux; prometheus";34;140000.0
+От 1 года до 3 лет;3;"docker; linux; sql";14;140000.0
+От 1 года до 3 лет;3;"docker; mysql; python";11;140000.0
+От 1 года до 3 лет;3;"docker; python; sql";12;140000.0
+От 1 года до 3 лет;3;"git; gitlab; grafana";11;140000.0
+От 1 года до 3 лет;3;"git; kubernetes; linux";36;140000.0
+От 1 года до 3 лет;3;"git; kubernetes; mysql";11;140000.0
+От 1 года до 3 лет;3;"git; kubernetes; nginx";14;140000.0
+От 1 года до 3 лет;3;"git; kubernetes; postgresql";22;140000.0
+От 1 года до 3 лет;3;"git; linux; nginx";27;140000.0
+От 1 года до 3 лет;3;"git; linux; python";41;140000.0
+От 1 года до 3 лет;3;"git; linux; sql";15;140000.0
+От 1 года до 3 лет;3;"git; linux; zabbix";11;140000.0
+От 1 года до 3 лет;3;"git; nginx; python";14;140000.0
+От 1 года до 3 лет;3;"git; python; sql";15;140000.0
+От 1 года до 3 лет;3;"kubernetes; postgresql; python";15;140000.0
+От 1 года до 3 лет;3;"kubernetes; prometheus; администрирование серверов linux";11;140000.0
+От 1 года до 3 лет;3;"linux; mysql; python";12;140000.0
+От 1 года до 3 лет;3;"linux; nginx; sql";11;140000.0
+От 1 года до 3 лет;3;"linux; postgresql; sql";14;140000.0
+От 1 года до 3 лет;3;"linux; postgresql; zabbix";21;140000.0
+От 1 года до 3 лет;3;"linux; python; sql";15;140000.0
+От 1 года до 3 лет;3;"nginx; postgresql; sql";10;140000.0
+От 1 года до 3 лет;3;"ansible; devops; grafana";26;137500.0
+От 1 года до 3 лет;3;"ansible; docker; git";24;137500.0
+От 1 года до 3 лет;3;"ansible; git; nginx";10;137500.0
+От 1 года до 3 лет;3;"ansible; git; zabbix";14;137500.0
+От 1 года до 3 лет;3;"ci/cd; git; prometheus";10;137500.0
+От 1 года до 3 лет;3;"docker; nginx; администрирование серверов linux";14;137500.0
+От 1 года до 3 лет;3;"elk; postgresql; python";10;137500.0
+От 1 года до 3 лет;3;"git; kubernetes; prometheus";24;137500.0
+От 1 года до 3 лет;3;"git; mysql; nginx";12;137500.0
+От 1 года до 3 лет;3;"postgresql; python; zabbix";10;137500.0
+От 1 года до 3 лет;3;"ansible; bash; devops";15;135000.0
+От 1 года до 3 лет;3;"ansible; bash; git";12;135000.0
+От 1 года до 3 лет;3;"ansible; bash; prometheus";11;135000.0
+От 1 года до 3 лет;3;"ansible; devops; mysql";12;135000.0
+От 1 года до 3 лет;3;"ansible; devops; nginx";11;135000.0
+От 1 года до 3 лет;3;"ansible; docker; prometheus";27;135000.0
+От 1 года до 3 лет;3;"ansible; git; grafana";20;135000.0
+От 1 года до 3 лет;3;"ansible; git; kubernetes";21;135000.0
+От 1 года до 3 лет;3;"ansible; git; linux";29;135000.0
+От 1 года до 3 лет;3;"ansible; git; postgresql";15;135000.0
+От 1 года до 3 лет;3;"ansible; git; prometheus";23;135000.0
+От 1 года до 3 лет;3;"ansible; grafana; mysql";16;135000.0
+От 1 года до 3 лет;3;"ansible; grafana; prometheus";27;135000.0
+От 1 года до 3 лет;3;"ansible; linux; mysql";16;135000.0
+От 1 года до 3 лет;3;"ansible; nginx; prometheus";11;135000.0
+От 1 года до 3 лет;3;"ansible; postgresql; prometheus";17;135000.0
+От 1 года до 3 лет;3;"bash; devops; grafana";12;135000.0
+От 1 года до 3 лет;3;"bash; devops; nginx";12;135000.0
+От 1 года до 3 лет;3;"bash; devops; postgresql";14;135000.0
+От 1 года до 3 лет;3;"bash; devops; prometheus";10;135000.0
+От 1 года до 3 лет;3;"bash; git; grafana";11;135000.0
+От 1 года до 3 лет;3;"bash; git; prometheus";11;135000.0
+От 1 года до 3 лет;3;"ci/cd; git; grafana";13;135000.0
+От 1 года до 3 лет;3;"devops; docker; jenkins";11;135000.0
+От 1 года до 3 лет;3;"devops; git; grafana";23;135000.0
+От 1 года до 3 лет;3;"devops; git; linux";41;135000.0
+От 1 года до 3 лет;3;"devops; git; nginx";17;135000.0
+От 1 года до 3 лет;3;"devops; git; prometheus";25;135000.0
+От 1 года до 3 лет;3;"devops; grafana; mysql";11;135000.0
+От 1 года до 3 лет;3;"devops; kubernetes; nginx";11;135000.0
+От 1 года до 3 лет;3;"devops; kubernetes; python";14;135000.0
+От 1 года до 3 лет;3;"devops; linux; prometheus";29;135000.0
+От 1 года до 3 лет;3;"devops; postgresql; prometheus";14;135000.0
+От 1 года до 3 лет;3;"docker; git; grafana";28;135000.0
+От 1 года до 3 лет;3;"docker; git; prometheus";24;135000.0
+От 1 года до 3 лет;3;"docker; grafana; mysql";17;135000.0
+От 1 года до 3 лет;3;"docker; grafana; nginx";21;135000.0
+От 1 года до 3 лет;3;"elk; prometheus; zabbix";13;135000.0
+От 1 года до 3 лет;3;"git; grafana; kubernetes";18;135000.0
+От 1 года до 3 лет;3;"git; grafana; prometheus";22;135000.0
+От 1 года до 3 лет;3;"git; linux; mysql";13;135000.0
+От 1 года до 3 лет;3;"git; linux; prometheus";27;135000.0
+От 1 года до 3 лет;3;"git; postgresql; prometheus";12;135000.0
+От 1 года до 3 лет;3;"git; postgresql; zabbix";11;135000.0
+От 1 года до 3 лет;3;"grafana; kubernetes; nginx";16;135000.0
+От 1 года до 3 лет;3;"grafana; linux; mysql";15;135000.0
+От 1 года до 3 лет;3;"grafana; linux; nginx";15;135000.0
+От 1 года до 3 лет;3;"kubernetes; nginx; prometheus";13;135000.0
+От 1 года до 3 лет;3;"kubernetes; postgresql; prometheus";19;135000.0
+От 1 года до 3 лет;3;"linux; nginx; prometheus";13;135000.0
+От 1 года до 3 лет;3;"mysql; nginx; prometheus";10;135000.0
+От 1 года до 3 лет;3;"postgresql; prometheus; zabbix";15;135000.0
+От 1 года до 3 лет;3;"git; kubernetes; python";22;132500.0
+От 1 года до 3 лет;3;"ansible; devops; git";26;130000.0
+От 1 года до 3 лет;3;"ansible; devops; prometheus";24;130000.0
+От 1 года до 3 лет;3;"elk; git; kubernetes";10;130000.0
+От 1 года до 3 лет;3;"kubernetes; prometheus; zabbix";14;130000.0
+От 1 года до 3 лет;3;"docker; elk; git";10;127500.0
+От 1 года до 3 лет;3;"ansible; devops; elk";15;125000.0
+От 1 года до 3 лет;3;"ansible; devops; администрирование серверов linux";12;125000.0
+От 1 года до 3 лет;3;"ansible; elk; git";12;125000.0
+От 1 года до 3 лет;3;"ansible; git; администрирование серверов linux";12;125000.0
+От 1 года до 3 лет;3;"ansible; linux; prometheus";30;125000.0
+От 1 года до 3 лет;3;"ansible; linux; администрирование серверов linux";13;125000.0
+От 1 года до 3 лет;3;"ansible; prometheus; python";14;125000.0
+От 1 года до 3 лет;3;"ansible; prometheus; zabbix";17;125000.0
+От 1 года до 3 лет;3;"ansible; prometheus; администрирование серверов linux";12;125000.0
+От 1 года до 3 лет;3;"devops; elk; git";11;125000.0
+От 1 года до 3 лет;3;"devops; elk; linux";15;125000.0
+От 1 года до 3 лет;3;"devops; elk; postgresql";11;125000.0
+От 1 года до 3 лет;3;"devops; elk; prometheus";12;125000.0
+От 1 года до 3 лет;3;"devops; elk; zabbix";11;125000.0
+От 1 года до 3 лет;3;"devops; git; zabbix";11;125000.0
+От 1 года до 3 лет;3;"devops; git; администрирование серверов linux";17;125000.0
+От 1 года до 3 лет;3;"devops; linux; администрирование серверов linux";23;125000.0
+От 1 года до 3 лет;3;"devops; postgresql; zabbix";15;125000.0
+От 1 года до 3 лет;3;"devops; postgresql; администрирование серверов linux";15;125000.0
+От 1 года до 3 лет;3;"devops; prometheus; zabbix";10;125000.0
+От 1 года до 3 лет;3;"devops; prometheus; администрирование серверов linux";12;125000.0
+От 1 года до 3 лет;3;"elk; git; linux";11;125000.0
+От 1 года до 3 лет;3;"elk; git; prometheus";12;125000.0
+От 1 года до 3 лет;3;"git; kubernetes; zabbix";11;125000.0
+От 1 года до 3 лет;3;"git; prometheus; python";14;125000.0
+От 1 года до 3 лет;3;"git; prometheus; zabbix";11;125000.0
+От 1 года до 3 лет;3;"git; prometheus; администрирование серверов linux";14;125000.0
+От 1 года до 3 лет;3;"jenkins; linux; nginx";10;125000.0
+От 1 года до 3 лет;3;"jenkins; linux; zabbix";10;125000.0
+От 1 года до 3 лет;3;"linux; prometheus; zabbix";15;125000.0
+От 1 года до 3 лет;3;"linux; prometheus; администрирование серверов linux";12;125000.0
+От 1 года до 3 лет;3;"linux; python; субд";10;125000.0
+От 1 года до 3 лет;3;"linux; zabbix; администрирование серверов linux";11;125000.0
+От 1 года до 3 лет;3;"postgresql; zabbix; администрирование серверов linux";10;125000.0
+От 1 года до 3 лет;3;"prometheus; python; zabbix";11;125000.0
+От 1 года до 3 лет;3;"devops; nginx; администрирование серверов linux";13;120000.0
+От 1 года до 3 лет;3;"linux; nginx; администрирование серверов linux";14;120000.0
+От 1 года до 3 лет;3;"git; grafana; linux";24;117500.0
+От 1 года до 3 лет;3;"git; nginx; prometheus";10;117500.0
+От 1 года до 3 лет;3;"grafana; nginx; prometheus";16;117500.0
+От 1 года до 3 лет;3;"jenkins; postgresql; zabbix";10;117500.0
+От 1 года до 3 лет;3;"git; grafana; python";15;117000.0
+От 1 года до 3 лет;3;"devops; grafana; nginx";11;112500.0
+От 1 года до 3 лет;3;"ansible; mysql; prometheus";13;100000.0
+От 1 года до 3 лет;3;"devops; jenkins; linux";10;100000.0
+От 1 года до 3 лет;3;"devops; jenkins; zabbix";10;100000.0
+От 1 года до 3 лет;3;"docker; mysql; prometheus";13;100000.0
+От 1 года до 3 лет;3;"docker; nginx; prometheus";15;100000.0
+От 1 года до 3 лет;3;"grafana; mysql; prometheus";13;100000.0
+От 1 года до 3 лет;3;"jenkins; linux; postgresql";11;100000.0
+От 1 года до 3 лет;3;"linux; mysql; prometheus";12;100000.0
+От 3 до 6 лет;3;"ansible; ci/cd; python";12;360000.0
+От 3 до 6 лет;3;"ansible; git; gitlab ci";11;360000.0
+От 3 до 6 лет;3;"ci/cd; git; python";10;360000.0
+От 3 до 6 лет;3;"git; gitlab; python";11;360000.0
+От 3 до 6 лет;3;"gitlab; gitlab ci; python";10;360000.0
+От 3 до 6 лет;3;"ci/cd; git; gitlab";12;355000.0
+От 3 до 6 лет;3;"ansible; ci/cd; gitlab";17;350000.0
+От 3 до 6 лет;3;"ansible; git; gitlab";15;350000.0
+От 3 до 6 лет;3;"ansible; git; postgresql";19;350000.0
+От 3 до 6 лет;3;"ansible; git; python";17;350000.0
+От 3 до 6 лет;3;"ansible; jenkins; nginx";12;350000.0
+От 3 до 6 лет;3;"ansible; postgresql; python";22;350000.0
+От 3 до 6 лет;3;"ansible; prometheus; zabbix";13;350000.0
+От 3 до 6 лет;3;"ansible; python; zabbix";11;350000.0
+От 3 до 6 лет;3;"bash; ci/cd; elk";13;350000.0
+От 3 до 6 лет;3;"bash; ci/cd; gitlab";19;350000.0
+От 3 до 6 лет;3;"bash; ci/cd; jenkins";12;350000.0
+От 3 до 6 лет;3;"bash; ci/cd; python";21;350000.0
+От 3 до 6 лет;3;"bash; devops; elk";16;350000.0
+От 3 до 6 лет;3;"bash; devops; zabbix";13;350000.0
+От 3 до 6 лет;3;"bash; docker; zabbix";14;350000.0
+От 3 до 6 лет;3;"bash; elk; gitlab";16;350000.0
+От 3 до 6 лет;3;"bash; elk; python";16;350000.0
+От 3 до 6 лет;3;"bash; elk; zabbix";11;350000.0
+От 3 до 6 лет;3;"bash; git; gitlab";13;350000.0
+От 3 до 6 лет;3;"bash; git; jenkins";11;350000.0
+От 3 до 6 лет;3;"bash; gitlab; grafana";13;350000.0
+От 3 до 6 лет;3;"bash; gitlab; python";27;350000.0
+От 3 до 6 лет;3;"bash; gitlab; zabbix";11;350000.0
+От 3 до 6 лет;3;"bash; grafana; zabbix";12;350000.0
+От 3 до 6 лет;3;"bash; kubernetes; zabbix";13;350000.0
+От 3 до 6 лет;3;"bash; linux; zabbix";15;350000.0
+От 3 до 6 лет;3;"bash; prometheus; zabbix";13;350000.0
+От 3 до 6 лет;3;"bash; python; zabbix";13;350000.0
+От 3 до 6 лет;3;"ci/cd; devops; elk";17;350000.0
+От 3 до 6 лет;3;"ci/cd; devops; gitlab";29;350000.0
+От 3 до 6 лет;3;"ci/cd; devops; python";22;350000.0
+От 3 до 6 лет;3;"ci/cd; devops; zabbix";16;350000.0
+От 3 до 6 лет;3;"ci/cd; elk; gitlab";10;350000.0
+От 3 до 6 лет;3;"ci/cd; elk; python";10;350000.0
+От 3 до 6 лет;3;"ci/cd; gitlab; grafana";12;350000.0
+От 3 до 6 лет;3;"ci/cd; gitlab; kubernetes";21;350000.0
+От 3 до 6 лет;3;"ci/cd; gitlab; linux";26;350000.0
+От 3 до 6 лет;3;"ci/cd; gitlab; prometheus";16;350000.0
+От 3 до 6 лет;3;"ci/cd; gitlab; python";16;350000.0
+От 3 до 6 лет;3;"ci/cd; gitlab; zabbix";12;350000.0
+От 3 до 6 лет;3;"ci/cd; grafana; zabbix";11;350000.0
+От 3 до 6 лет;3;"ci/cd; jenkins; python";13;350000.0
+От 3 до 6 лет;3;"ci/cd; kubernetes; prometheus";26;350000.0
+От 3 до 6 лет;3;"ci/cd; kubernetes; python";14;350000.0
+От 3 до 6 лет;3;"ci/cd; linux; python";26;350000.0
+От 3 до 6 лет;3;"ci/cd; linux; zabbix";17;350000.0
+От 3 до 6 лет;3;"ci/cd; prometheus; python";11;350000.0
+От 3 до 6 лет;3;"ci/cd; prometheus; zabbix";11;350000.0
+От 3 до 6 лет;3;"ci/cd; python; zabbix";10;350000.0
+От 3 до 6 лет;3;"devops; elk; gitlab";17;350000.0
+От 3 до 6 лет;3;"devops; elk; python";14;350000.0
+От 3 до 6 лет;3;"devops; elk; zabbix";17;350000.0
+От 3 до 6 лет;3;"devops; git; gitlab";16;350000.0
+От 3 до 6 лет;3;"devops; git; python";16;350000.0
+От 3 до 6 лет;3;"devops; git; terraform";13;350000.0
+От 3 до 6 лет;3;"devops; gitlab; python";27;350000.0
+От 3 до 6 лет;3;"devops; gitlab; zabbix";17;350000.0
+От 3 до 6 лет;3;"devops; kafka; zabbix";10;350000.0
+От 3 до 6 лет;3;"devops; prometheus; python";15;350000.0
+От 3 до 6 лет;3;"devops; prometheus; zabbix";17;350000.0
+От 3 до 6 лет;3;"devops; python; zabbix";17;350000.0
+От 3 до 6 лет;3;"devops; terraform; zabbix";12;350000.0
+От 3 до 6 лет;3;"docker; gitlab; zabbix";19;350000.0
+От 3 до 6 лет;3;"docker; terraform; zabbix";14;350000.0
+От 3 до 6 лет;3;"elk; gitlab; python";17;350000.0
+От 3 до 6 лет;3;"elk; prometheus; python";10;350000.0
+От 3 до 6 лет;3;"elk; prometheus; zabbix";11;350000.0
+От 3 до 6 лет;3;"git; nginx; python";13;350000.0
+От 3 до 6 лет;3;"git; postgresql; python";13;350000.0
+От 3 до 6 лет;3;"gitlab; grafana; zabbix";13;350000.0
+От 3 до 6 лет;3;"gitlab; kubernetes; zabbix";19;350000.0
+От 3 до 6 лет;3;"gitlab; linux; python";30;350000.0
+От 3 до 6 лет;3;"gitlab; prometheus; python";16;350000.0
+От 3 до 6 лет;3;"gitlab; prometheus; zabbix";12;350000.0
+От 3 до 6 лет;3;"gitlab; python; zabbix";14;350000.0
+От 3 до 6 лет;3;"grafana; prometheus; zabbix";14;350000.0
+От 3 до 6 лет;3;"jenkins; nginx; postgresql";11;350000.0
+От 3 до 6 лет;3;"kubernetes; prometheus; zabbix";21;350000.0
+От 3 до 6 лет;3;"kubernetes; terraform; zabbix";13;350000.0
+От 3 до 6 лет;3;"linux; prometheus; zabbix";17;350000.0
+От 3 до 6 лет;3;"linux; terraform; zabbix";12;350000.0
+От 3 до 6 лет;3;"prometheus; python; zabbix";13;350000.0
+От 3 до 6 лет;3;"kubernetes; linux; английский язык";11;340000.0
+От 3 до 6 лет;3;"bash; devops; gitlab";28;337500.0
+От 3 до 6 лет;3;"ci/cd; grafana; kubernetes";22;337500.0
+От 3 до 6 лет;3;"devops; elk; linux";28;335000.0
+От 3 до 6 лет;3;"bash; elk; linux";20;332500.0
+От 3 до 6 лет;3;"devops; git; jenkins";12;332500.0
+От 3 до 6 лет;3;"ansible; gitlab ci; python";10;330000.0
+От 3 до 6 лет;3;"git; gitlab ci; linux";10;330000.0
+От 3 до 6 лет;3;"git; gitlab; postgresql";10;330000.0
+От 3 до 6 лет;3;"ansible; ci/cd; git";16;325000.0
+От 3 до 6 лет;3;"ci/cd; docker; python";14;325000.0
+От 3 до 6 лет;3;"ci/cd; docker; zabbix";16;325000.0
+От 3 до 6 лет;3;"ci/cd; kubernetes; zabbix";16;325000.0
+От 3 до 6 лет;3;"devops; gitlab; linux";43;325000.0
+От 3 до 6 лет;3;"devops; kafka; linux";14;325000.0
+От 3 до 6 лет;3;"git; gitlab; linux";20;325000.0
+От 3 до 6 лет;3;"git; grafana; zabbix";12;325000.0
+От 3 до 6 лет;3;"gitlab; grafana; kubernetes";27;325000.0
+От 3 до 6 лет;3;"gitlab; grafana; python";14;325000.0
+От 3 до 6 лет;3;"docker; prometheus; zabbix";22;323000.0
+От 3 до 6 лет;3;"ci/cd; docker; gitlab";20;322500.0
+От 3 до 6 лет;3;"ansible; ci/cd; jenkins";12;320000.0
+От 3 до 6 лет;3;"ansible; ci/cd; kubernetes";27;320000.0
+От 3 до 6 лет;3;"ansible; devops; gitlab ci";11;320000.0
+От 3 до 6 лет;3;"ci/cd; elk; linux";19;320000.0
+От 3 до 6 лет;3;"devops; elk; terraform";11;320000.0
+От 3 до 6 лет;3;"ci/cd; git; postgresql";14;317500.0
+От 3 до 6 лет;3;"ansible; devops; git";24;315000.0
+От 3 до 6 лет;3;"bash; devops; jenkins";13;315000.0
+От 3 до 6 лет;3;"devops; elk; git";11;315000.0
+От 3 до 6 лет;3;"devops; elk; kubernetes";23;315000.0
+От 3 до 6 лет;3;"ansible; git; terraform";16;312500.0
+От 3 до 6 лет;3;"bash; gitlab; linux";30;312500.0
+От 3 до 6 лет;3;"ci/cd; devops; prometheus";34;312500.0
+От 3 до 6 лет;3;"git; linux; python";20;312500.0
+От 3 до 6 лет;3;"ansible; devops; nexus";10;310000.0
+От 3 до 6 лет;3;"ansible; linux; nexus";10;310000.0
+От 3 до 6 лет;3;"ci/cd; devops; gitlab ci";10;310000.0
+От 3 до 6 лет;3;"ansible; devops; zabbix";10;307500.0
+От 3 до 6 лет;3;"bash; git; python";14;307500.0
+От 3 до 6 лет;3;"ansible; bash; devops";29;300000.0
+От 3 до 6 лет;3;"ansible; bash; git";23;300000.0
+От 3 до 6 лет;3;"ansible; bash; gitlab";23;300000.0
+От 3 до 6 лет;3;"ansible; bash; gitlab ci";12;300000.0
+От 3 до 6 лет;3;"ansible; bash; nexus";10;300000.0
+От 3 до 6 лет;3;"ansible; ci/cd; devops";31;300000.0
+От 3 до 6 лет;3;"ansible; devops; gitlab";26;300000.0
+От 3 до 6 лет;3;"ansible; devops; kubernetes";43;300000.0
+От 3 до 6 лет;3;"ansible; devops; linux";45;300000.0
+От 3 до 6 лет;3;"ansible; devops; nginx";25;300000.0
+От 3 до 6 лет;3;"ansible; devops; postgresql";30;300000.0
+От 3 до 6 лет;3;"ansible; devops; prometheus";32;300000.0
+От 3 до 6 лет;3;"ansible; devops; python";17;300000.0
+От 3 до 6 лет;3;"ansible; devops; terraform";23;300000.0
+От 3 до 6 лет;3;"ansible; docker; git";32;300000.0
+От 3 до 6 лет;3;"ansible; docker; gitlab";32;300000.0
+От 3 до 6 лет;3;"ansible; docker; gitlab ci";11;300000.0
+От 3 до 6 лет;3;"ansible; docker; kubernetes";64;300000.0
+От 3 до 6 лет;3;"ansible; docker; postgresql";49;300000.0
+От 3 до 6 лет;3;"ansible; docker; python";29;300000.0
+От 3 до 6 лет;3;"ansible; git; kubernetes";27;300000.0
+От 3 до 6 лет;3;"ansible; git; nginx";23;300000.0
+От 3 до 6 лет;3;"ansible; gitlab ci; kubernetes";11;300000.0
+От 3 до 6 лет;3;"ansible; gitlab ci; linux";13;300000.0
+От 3 до 6 лет;3;"ansible; gitlab ci; postgresql";11;300000.0
+От 3 до 6 лет;3;"ansible; gitlab; gitlab ci";12;300000.0
+От 3 до 6 лет;3;"ansible; gitlab; grafana";22;300000.0
+От 3 до 6 лет;3;"ansible; gitlab; kubernetes";34;300000.0
+От 3 до 6 лет;3;"ansible; gitlab; linux";37;300000.0
+От 3 до 6 лет;3;"ansible; gitlab; nexus";10;300000.0
+От 3 до 6 лет;3;"ansible; gitlab; nginx";26;300000.0
+От 3 до 6 лет;3;"ansible; gitlab; postgresql";25;300000.0
+От 3 до 6 лет;3;"ansible; gitlab; prometheus";28;300000.0
+От 3 до 6 лет;3;"ansible; gitlab; python";20;300000.0
+От 3 до 6 лет;3;"ansible; gitlab; terraform";12;300000.0
+От 3 до 6 лет;3;"ansible; gitlab; zabbix";10;300000.0
+От 3 до 6 лет;3;"ansible; gitlab; администрирование серверов linux";12;300000.0
+От 3 до 6 лет;3;"ansible; grafana; python";17;300000.0
+От 3 до 6 лет;3;"ansible; jenkins; python";13;300000.0
+От 3 до 6 лет;3;"ansible; kubernetes; postgresql";38;300000.0
+От 3 до 6 лет;3;"ansible; linux; python";35;300000.0
+От 3 до 6 лет;3;"ansible; nginx; postgresql";29;300000.0
+От 3 до 6 лет;3;"ansible; nginx; python";23;300000.0
+От 3 до 6 лет;3;"ansible; prometheus; python";20;300000.0
+От 3 до 6 лет;3;"bash; ci/cd; devops";29;300000.0
+От 3 до 6 лет;3;"bash; ci/cd; docker";21;300000.0
+От 3 до 6 лет;3;"bash; ci/cd; git";13;300000.0
+От 3 до 6 лет;3;"bash; ci/cd; kubernetes";19;300000.0
+От 3 до 6 лет;3;"bash; ci/cd; linux";31;300000.0
+От 3 до 6 лет;3;"bash; ci/cd; nginx";15;300000.0
+От 3 до 6 лет;3;"bash; ci/cd; prometheus";18;300000.0
+От 3 до 6 лет;3;"bash; devops; git";25;300000.0
+От 3 до 6 лет;3;"bash; devops; kubernetes";32;300000.0
+От 3 до 6 лет;3;"bash; devops; linux";49;300000.0
+От 3 до 6 лет;3;"bash; devops; nginx";25;300000.0
+От 3 до 6 лет;3;"bash; devops; prometheus";25;300000.0
+От 3 до 6 лет;3;"bash; docker; gitlab";24;300000.0
+От 3 до 6 лет;3;"bash; git; kubernetes";17;300000.0
+От 3 до 6 лет;3;"bash; git; postgresql";13;300000.0
+От 3 до 6 лет;3;"bash; gitlab ci; linux";11;300000.0
+От 3 до 6 лет;3;"bash; gitlab ci; postgresql";10;300000.0
+От 3 до 6 лет;3;"bash; gitlab; gitlab ci";12;300000.0
+От 3 до 6 лет;3;"bash; gitlab; kubernetes";22;300000.0
+От 3 до 6 лет;3;"bash; gitlab; nexus";10;300000.0
+От 3 до 6 лет;3;"bash; gitlab; nginx";19;300000.0
+От 3 до 6 лет;3;"bash; gitlab; postgresql";17;300000.0
+От 3 до 6 лет;3;"bash; gitlab; prometheus";21;300000.0
+От 3 до 6 лет;3;"bash; prometheus; python";24;300000.0
+От 3 до 6 лет;3;"ci/cd; devops; docker";53;300000.0
+От 3 до 6 лет;3;"ci/cd; devops; git";19;300000.0
+От 3 до 6 лет;3;"ci/cd; devops; kubernetes";52;300000.0
+От 3 до 6 лет;3;"ci/cd; devops; linux";50;300000.0
+От 3 до 6 лет;3;"ci/cd; docker; git";16;300000.0
+От 3 до 6 лет;3;"ci/cd; docker; kubernetes";50;300000.0
+От 3 до 6 лет;3;"ci/cd; docker; prometheus";29;300000.0
+От 3 до 6 лет;3;"ci/cd; git; kubernetes";14;300000.0
+От 3 до 6 лет;3;"ci/cd; git; linux";23;300000.0
+От 3 до 6 лет;3;"ci/cd; git; nginx";15;300000.0
+От 3 до 6 лет;3;"ci/cd; gitlab ci; linux";11;300000.0
+От 3 до 6 лет;3;"ci/cd; gitlab; nginx";15;300000.0
+От 3 до 6 лет;3;"ci/cd; gitlab; postgresql";13;300000.0
+От 3 до 6 лет;3;"ci/cd; kafka; kubernetes";13;300000.0
+От 3 до 6 лет;3;"ci/cd; kubernetes; linux";39;300000.0
+От 3 до 6 лет;3;"ci/cd; kubernetes; postgresql";17;300000.0
+От 3 до 6 лет;3;"ci/cd; linux; prometheus";24;300000.0
+От 3 до 6 лет;3;"devops; docker; elk";27;300000.0
+От 3 до 6 лет;3;"devops; docker; gitlab";36;300000.0
+От 3 до 6 лет;3;"devops; docker; gitlab ci";11;300000.0
+От 3 до 6 лет;3;"devops; docker; kubernetes";99;300000.0
+От 3 до 6 лет;3;"devops; docker; prometheus";49;300000.0
+От 3 до 6 лет;3;"devops; docker; terraform";28;300000.0
+От 3 до 6 лет;3;"devops; git; prometheus";15;300000.0
+От 3 до 6 лет;3;"devops; gitlab ci; kubernetes";10;300000.0
+От 3 до 6 лет;3;"devops; gitlab ci; linux";12;300000.0
+От 3 до 6 лет;3;"devops; gitlab ci; nginx";10;300000.0
+От 3 до 6 лет;3;"devops; gitlab ci; postgresql";10;300000.0
+От 3 до 6 лет;3;"devops; gitlab; gitlab ci";10;300000.0
+От 3 до 6 лет;3;"devops; gitlab; grafana";19;300000.0
+От 3 до 6 лет;3;"devops; gitlab; kubernetes";36;300000.0
+От 3 до 6 лет;3;"devops; gitlab; nginx";22;300000.0
+От 3 до 6 лет;3;"devops; gitlab; postgresql";26;300000.0
+От 3 до 6 лет;3;"devops; gitlab; prometheus";26;300000.0
+От 3 до 6 лет;3;"devops; gitlab; terraform";11;300000.0
+От 3 до 6 лет;3;"devops; grafana; kubernetes";42;300000.0
+От 3 до 6 лет;3;"devops; grafana; terraform";17;300000.0
+От 3 до 6 лет;3;"devops; grafana; zabbix";26;300000.0
+От 3 до 6 лет;3;"devops; kubernetes; linux";76;300000.0
+От 3 до 6 лет;3;"devops; kubernetes; prometheus";43;300000.0
+От 3 до 6 лет;3;"devops; kubernetes; terraform";32;300000.0
+От 3 до 6 лет;3;"devops; linux; prometheus";37;300000.0
+От 3 до 6 лет;3;"devops; linux; python";37;300000.0
+От 3 до 6 лет;3;"devops; linux; terraform";25;300000.0
+От 3 до 6 лет;3;"devops; nginx; python";17;300000.0
+От 3 до 6 лет;3;"devops; postgresql; prometheus";25;300000.0
+От 3 до 6 лет;3;"devops; prometheus; terraform";15;300000.0
+От 3 до 6 лет;3;"docker; git; gitlab";14;300000.0
+От 3 до 6 лет;3;"docker; gitlab ci; kubernetes";15;300000.0
+От 3 до 6 лет;3;"docker; gitlab ci; linux";10;300000.0
+От 3 до 6 лет;3;"docker; gitlab; gitlab ci";10;300000.0
+От 3 до 6 лет;3;"docker; gitlab; grafana";30;300000.0
+От 3 до 6 лет;3;"docker; gitlab; kubernetes";42;300000.0
+От 3 до 6 лет;3;"docker; gitlab; linux";38;300000.0
+От 3 до 6 лет;3;"docker; gitlab; postgresql";27;300000.0
+От 3 до 6 лет;3;"docker; gitlab; prometheus";32;300000.0
+От 3 до 6 лет;3;"docker; gitlab; python";22;300000.0
+От 3 до 6 лет;3;"docker; gitlab; terraform";15;300000.0
+От 3 до 6 лет;3;"docker; grafana; sql";11;300000.0
+От 3 до 6 лет;3;"docker; kubernetes; postgresql";59;300000.0
+От 3 до 6 лет;3;"docker; kubernetes; prometheus";59;300000.0
+От 3 до 6 лет;3;"docker; kubernetes; sql";16;300000.0
+От 3 до 6 лет;3;"docker; linux; английский язык";12;300000.0
+От 3 до 6 лет;3;"docker; prometheus; python";19;300000.0
+От 3 до 6 лет;3;"docker; prometheus; sql";10;300000.0
+От 3 до 6 лет;3;"elk; git; nginx";10;300000.0
+От 3 до 6 лет;3;"elk; gitlab; prometheus";15;300000.0
+От 3 до 6 лет;3;"elk; gitlab; zabbix";12;300000.0
+От 3 до 6 лет;3;"elk; kubernetes; prometheus";21;300000.0
+От 3 до 6 лет;3;"elk; kubernetes; terraform";15;300000.0
+От 3 до 6 лет;3;"git; gitlab; kubernetes";10;300000.0
+От 3 до 6 лет;3;"git; gitlab; nginx";12;300000.0
+От 3 до 6 лет;3;"git; grafana; postgresql";18;300000.0
+От 3 до 6 лет;3;"git; grafana; python";13;300000.0
+От 3 до 6 лет;3;"git; kubernetes; zabbix";19;300000.0
+От 3 до 6 лет;3;"git; nginx; postgresql";22;300000.0
+От 3 до 6 лет;3;"gitlab ci; linux; nginx";10;300000.0
+От 3 до 6 лет;3;"gitlab ci; linux; postgresql";13;300000.0
+От 3 до 6 лет;3;"gitlab; gitlab ci; kubernetes";10;300000.0
+От 3 до 6 лет;3;"gitlab; gitlab ci; linux";12;300000.0
+От 3 до 6 лет;3;"gitlab; grafana; linux";21;300000.0
+От 3 до 6 лет;3;"gitlab; grafana; prometheus";26;300000.0
+От 3 до 6 лет;3;"gitlab; grafana; terraform";10;300000.0
+От 3 до 6 лет;3;"gitlab; kubernetes; linux";40;300000.0
+От 3 до 6 лет;3;"gitlab; kubernetes; nginx";20;300000.0
+От 3 до 6 лет;3;"gitlab; kubernetes; postgresql";20;300000.0
+От 3 до 6 лет;3;"gitlab; kubernetes; prometheus";29;300000.0
+От 3 до 6 лет;3;"gitlab; kubernetes; python";23;300000.0
+От 3 до 6 лет;3;"gitlab; kubernetes; terraform";13;300000.0
+От 3 до 6 лет;3;"gitlab; linux; postgresql";25;300000.0
+От 3 до 6 лет;3;"gitlab; linux; prometheus";26;300000.0
+От 3 до 6 лет;3;"gitlab; linux; terraform";11;300000.0
+От 3 до 6 лет;3;"gitlab; nginx; prometheus";20;300000.0
+От 3 до 6 лет;3;"gitlab; nginx; python";13;300000.0
+От 3 до 6 лет;3;"gitlab; postgresql; prometheus";22;300000.0
+От 3 до 6 лет;3;"gitlab; postgresql; python";15;300000.0
+От 3 до 6 лет;3;"gitlab; prometheus; terraform";12;300000.0
+От 3 до 6 лет;3;"grafana; kubernetes; sql";10;300000.0
+От 3 до 6 лет;3;"grafana; linux; sql";10;300000.0
+От 3 до 6 лет;3;"kubernetes; linux; sql";13;300000.0
+От 3 до 6 лет;3;"kubernetes; nginx; postgresql";24;300000.0
+От 3 до 6 лет;3;"kubernetes; nginx; prometheus";22;300000.0
+От 3 до 6 лет;3;"kubernetes; postgresql; prometheus";34;300000.0
+От 3 до 6 лет;3;"kubernetes; postgresql; администрирование серверов linux";13;300000.0
+От 3 до 6 лет;3;"kubernetes; prometheus; python";22;300000.0
+От 3 до 6 лет;3;"kubernetes; prometheus; администрирование серверов linux";12;300000.0
+От 3 до 6 лет;3;"linux; nexus; postgresql";10;300000.0
+От 3 до 6 лет;3;"linux; prometheus; python";23;300000.0
+От 3 до 6 лет;3;"nginx; postgresql; prometheus";19;300000.0
+От 3 до 6 лет;3;"nginx; postgresql; python";18;300000.0
+От 3 до 6 лет;3;"postgresql; prometheus; администрирование серверов linux";11;300000.0
+От 3 до 6 лет;3;"grafana; kubernetes; zabbix";38;298000.0
+От 3 до 6 лет;3;"elk; linux; terraform";12;297500.0
+От 3 до 6 лет;3;"bash; elk; kubernetes";14;295000.0
+От 3 до 6 лет;3;"docker; elk; terraform";16;295000.0
+От 3 до 6 лет;3;"git; jenkins; linux";14;295000.0
+От 3 до 6 лет;3;"docker; grafana; kubernetes";64;293000.0
+От 3 до 6 лет;3;"ansible; devops; docker";43;290000.0
+От 3 до 6 лет;3;"ansible; devops; elk";17;290000.0
+От 3 до 6 лет;3;"ansible; kubernetes; prometheus";49;290000.0
+От 3 до 6 лет;3;"ansible; postgresql; prometheus";35;290000.0
+От 3 до 6 лет;3;"devops; elk; grafana";25;290000.0
+От 3 до 6 лет;3;"devops; elk; postgresql";13;290000.0
+От 3 до 6 лет;3;"devops; elk; prometheus";19;290000.0
+От 3 до 6 лет;3;"devops; kubernetes; postgresql";47;290000.0
+От 3 до 6 лет;3;"docker; kubernetes; terraform";37;290000.0
+От 3 до 6 лет;3;"elk; gitlab; kubernetes";17;290000.0
+От 3 до 6 лет;3;"elk; grafana; terraform";15;290000.0
+От 3 до 6 лет;3;"ci/cd; devops; kafka";10;287500.0
+От 3 до 6 лет;3;"devops; docker; zabbix";34;287500.0
+От 3 до 6 лет;3;"devops; grafana; kafka";18;287500.0
+От 3 до 6 лет;3;"devops; kafka; kubernetes";18;287500.0
+От 3 до 6 лет;3;"devops; kubernetes; python";30;287500.0
+От 3 до 6 лет;3;"devops; linux; postgresql";42;287500.0
+От 3 до 6 лет;3;"devops; linux; zabbix";32;287500.0
+От 3 до 6 лет;3;"docker; git; postgresql";26;287500.0
+От 3 до 6 лет;3;"docker; git; python";18;287500.0
+От 3 до 6 лет;3;"docker; postgresql; python";26;287500.0
+От 3 до 6 лет;3;"docker; python; terraform";10;287500.0
+От 3 до 6 лет;3;"gitlab ci; kubernetes; linux";12;287500.0
+От 3 до 6 лет;3;"gitlab; kubernetes; redis";10;287500.0
+От 3 до 6 лет;3;"grafana; linux; zabbix";36;287500.0
+От 3 до 6 лет;3;"docker; grafana; zabbix";34;285500.0
+От 3 до 6 лет;3;"ansible; ci/cd; postgresql";20;282500.0
+От 3 до 6 лет;3;"ansible; elk; postgresql";14;282500.0
+От 3 до 6 лет;3;"ansible; kubernetes; terraform";40;282500.0
+От 3 до 6 лет;3;"bash; ci/cd; postgresql";16;282500.0
+От 3 до 6 лет;3;"bash; devops; terraform";10;282500.0
+От 3 до 6 лет;3;"bash; elk; git";12;282500.0
+От 3 до 6 лет;3;"bash; nginx; postgresql";22;282500.0
+От 3 до 6 лет;3;"ci/cd; docker; kafka";10;282500.0
+От 3 до 6 лет;3;"ci/cd; kafka; postgresql";10;282500.0
+От 3 до 6 лет;3;"ci/cd; kubernetes; terraform";10;282500.0
+От 3 до 6 лет;3;"devops; docker; kafka";16;282500.0
+От 3 до 6 лет;3;"grafana; kubernetes; prometheus";50;282500.0
+От 3 до 6 лет;3;"docker; grafana; terraform";28;277500.0
+От 3 до 6 лет;3;"docker; postgresql; prometheus";38;277500.0
+От 3 до 6 лет;3;"devops; jenkins; postgresql";10;276500.0
+От 3 до 6 лет;3;"ansible; bash; python";35;275000.0
+От 3 до 6 лет;3;"ansible; elk; python";11;275000.0
+От 3 до 6 лет;3;"ansible; kubernetes; linux";61;275000.0
+От 3 до 6 лет;3;"ansible; kubernetes; python";27;275000.0
+От 3 до 6 лет;3;"ansible; linux; postgresql";37;275000.0
+От 3 до 6 лет;3;"ansible; postgresql; администрирование серверов linux";12;275000.0
+От 3 до 6 лет;3;"bash; docker; kubernetes";48;275000.0
+От 3 до 6 лет;3;"bash; git; nginx";16;275000.0
+От 3 до 6 лет;3;"bash; kubernetes; linux";47;275000.0
+От 3 до 6 лет;3;"bash; kubernetes; python";35;275000.0
+От 3 до 6 лет;3;"bash; linux; python";46;275000.0
+От 3 до 6 лет;3;"ci/cd; devops; grafana";28;275000.0
+От 3 до 6 лет;3;"ci/cd; devops; jenkins";13;275000.0
+От 3 до 6 лет;3;"devops; git; kubernetes";33;275000.0
+От 3 до 6 лет;3;"devops; git; linux";44;275000.0
+От 3 до 6 лет;3;"devops; git; postgresql";23;275000.0
+От 3 до 6 лет;3;"devops; git; zabbix";12;275000.0
+От 3 до 6 лет;3;"devops; grafana; linux";39;275000.0
+От 3 до 6 лет;3;"devops; grafana; prometheus";36;275000.0
+От 3 до 6 лет;3;"devops; grafana; python";15;275000.0
+От 3 до 6 лет;3;"devops; jenkins; linux";17;275000.0
+От 3 до 6 лет;3;"devops; jenkins; nginx";11;275000.0
+От 3 до 6 лет;3;"devops; jenkins; python";13;275000.0
+От 3 до 6 лет;3;"devops; kubernetes; zabbix";33;275000.0
+От 3 до 6 лет;3;"devops; nginx; redis";10;275000.0
+От 3 до 6 лет;3;"docker; git; kafka";10;275000.0
+От 3 до 6 лет;3;"docker; git; kubernetes";44;275000.0
+От 3 до 6 лет;3;"docker; kubernetes; linux";102;275000.0
+От 3 до 6 лет;3;"elk; gitlab; linux";21;275000.0
+От 3 до 6 лет;3;"git; kubernetes; linux";44;275000.0
+От 3 до 6 лет;3;"git; kubernetes; postgresql";25;275000.0
+От 3 до 6 лет;3;"git; kubernetes; prometheus";19;275000.0
+От 3 до 6 лет;3;"git; kubernetes; terraform";17;275000.0
+От 3 до 6 лет;3;"git; linux; postgresql";28;275000.0
+От 3 до 6 лет;3;"gitlab; nginx; redis";11;275000.0
+От 3 до 6 лет;3;"grafana; kubernetes; terraform";29;275000.0
+От 3 до 6 лет;3;"kubernetes; linux; postgresql";48;275000.0
+От 3 до 6 лет;3;"kubernetes; prometheus; redis";12;275000.0
+От 3 до 6 лет;3;"kubernetes; python; terraform";13;275000.0
+От 3 до 6 лет;3;"linux; postgresql; python";24;275000.0
+От 3 до 6 лет;3;"linux; postgresql; администрирование серверов linux";14;275000.0
+От 3 до 6 лет;3;"nginx; prometheus; redis";10;275000.0
+От 3 до 6 лет;3;"ansible; bash; postgresql";30;270000.0
+От 3 до 6 лет;3;"ansible; docker; nginx";36;270000.0
+От 3 до 6 лет;3;"ansible; kubernetes; nginx";28;270000.0
+От 3 до 6 лет;3;"bash; postgresql; python";24;270000.0
+От 3 до 6 лет;3;"devops; postgresql; python";22;270000.0
+От 3 до 6 лет;3;"devops; postgresql; terraform";16;270000.0
+От 3 до 6 лет;3;"docker; kubernetes; python";50;270000.0
+От 3 до 6 лет;3;"docker; nginx; postgresql";38;270000.0
+От 3 до 6 лет;3;"docker; postgresql; sql";10;270000.0
+От 3 до 6 лет;3;"elk; gitlab; grafana";18;270000.0
+От 3 до 6 лет;3;"git; grafana; kubernetes";24;270000.0
+От 3 до 6 лет;3;"git; kubernetes; python";12;270000.0
+От 3 до 6 лет;3;"grafana; kafka; kubernetes";24;270000.0
+От 3 до 6 лет;3;"grafana; postgresql; python";14;270000.0
+От 3 до 6 лет;3;"grafana; prometheus; python";20;270000.0
+От 3 до 6 лет;3;"kubernetes; linux; terraform";40;270000.0
+От 3 до 6 лет;3;"kubernetes; postgresql; terraform";22;270000.0
+От 3 до 6 лет;3;"ansible; elk; gitlab";16;267500.0
+От 3 до 6 лет;3;"ansible; kubernetes; rabbitmq";12;267500.0
+От 3 до 6 лет;3;"docker; helm; kubernetes";12;267500.0
+От 3 до 6 лет;3;"elk; gitlab; nginx";14;267500.0
+От 3 до 6 лет;3;"gitlab; linux; nginx";26;267500.0
+От 3 до 6 лет;3;"ansible; bash; ci/cd";23;265000.0
+От 3 до 6 лет;3;"ansible; bash; nginx";27;265000.0
+От 3 до 6 лет;3;"ansible; ci/cd; linux";35;265000.0
+От 3 до 6 лет;3;"ansible; ci/cd; terraform";11;265000.0
+От 3 до 6 лет;3;"ansible; docker; terraform";31;265000.0
+От 3 до 6 лет;3;"ansible; docker; zabbix";15;265000.0
+От 3 до 6 лет;3;"ansible; elk; kubernetes";15;265000.0
+От 3 до 6 лет;3;"ansible; elk; terraform";13;265000.0
+От 3 до 6 лет;3;"ansible; grafana; kubernetes";41;265000.0
+От 3 до 6 лет;3;"ansible; jenkins; postgresql";17;265000.0
+От 3 до 6 лет;3;"ansible; linux; zabbix";13;265000.0
+От 3 до 6 лет;3;"bash; devops; grafana";17;265000.0
+От 3 до 6 лет;3;"bash; devops; postgresql";31;265000.0
+От 3 до 6 лет;3;"bash; devops; python";37;265000.0
+От 3 до 6 лет;3;"bash; docker; python";41;265000.0
+От 3 до 6 лет;3;"bash; elk; grafana";13;265000.0
+От 3 до 6 лет;3;"bash; elk; nginx";13;265000.0
+От 3 до 6 лет;3;"bash; grafana; python";19;265000.0
+От 3 до 6 лет;3;"bash; jenkins; python";19;265000.0
+От 3 до 6 лет;3;"bash; kubernetes; postgresql";28;265000.0
+От 3 до 6 лет;3;"bash; kubernetes; prometheus";35;265000.0
+От 3 до 6 лет;3;"ci/cd; devops; postgresql";23;265000.0
+От 3 до 6 лет;3;"ci/cd; grafana; linux";25;265000.0
+От 3 до 6 лет;3;"ci/cd; jenkins; linux";19;265000.0
+От 3 до 6 лет;3;"ci/cd; linux; postgresql";23;265000.0
+От 3 до 6 лет;3;"ci/cd; nginx; postgresql";19;265000.0
+От 3 до 6 лет;3;"devops; docker; grafana";47;265000.0
+От 3 до 6 лет;3;"devops; docker; postgresql";57;265000.0
+От 3 до 6 лет;3;"devops; kafka; terraform";11;265000.0
+От 3 до 6 лет;3;"docker; grafana; python";32;265000.0
+От 3 до 6 лет;3;"docker; linux; python";46;265000.0
+От 3 до 6 лет;3;"docker; linux; sql";21;265000.0
+От 3 до 6 лет;3;"grafana; kafka; linux";21;265000.0
+От 3 до 6 лет;3;"grafana; kubernetes; postgresql";37;265000.0
+От 3 до 6 лет;3;"grafana; nginx; postgresql";19;265000.0
+От 3 до 6 лет;3;"kubernetes; linux; prometheus";49;265000.0
+От 3 до 6 лет;3;"kubernetes; linux; python";47;265000.0
+От 3 до 6 лет;3;"kubernetes; postgresql; python";19;265000.0
+От 3 до 6 лет;3;"kubernetes; postgresql; zabbix";15;265000.0
+От 3 до 6 лет;3;"linux; postgresql; prometheus";31;265000.0
+От 3 до 6 лет;3;"nginx; prometheus; python";13;265000.0
+От 3 до 6 лет;3;"ansible; bash; linux";50;262500.0
+От 3 до 6 лет;3;"bash; docker; elk";18;262500.0
+От 3 до 6 лет;3;"bash; kubernetes; nginx";20;262500.0
+От 3 до 6 лет;3;"bash; nginx; python";22;262500.0
+От 3 до 6 лет;3;"git; linux; terraform";18;262500.0
+От 3 до 6 лет;3;"ansible; bash; kubernetes";43;260000.0
+От 3 до 6 лет;3;"ansible; bash; redis";11;260000.0
+От 3 до 6 лет;3;"ansible; ci/cd; nginx";22;260000.0
+От 3 до 6 лет;3;"ansible; kubernetes; redis";13;260000.0
+От 3 до 6 лет;3;"bash; docker; redis";11;260000.0
+От 3 до 6 лет;3;"bash; kubernetes; redis";11;260000.0
+От 3 до 6 лет;3;"bash; linux; redis";11;260000.0
+От 3 до 6 лет;3;"docker; elk; kubernetes";35;260000.0
+От 3 до 6 лет;3;"elk; kubernetes; linux";31;260000.0
+От 3 до 6 лет;3;"elk; linux; python";25;260000.0
+От 3 до 6 лет;3;"ansible; ci/cd; elk";12;257500.0
+От 3 до 6 лет;3;"ansible; ci/cd; prometheus";18;257500.0
+От 3 до 6 лет;3;"ansible; kubernetes; zabbix";16;257500.0
+От 3 до 6 лет;3;"ansible; python; terraform";16;257500.0
+От 3 до 6 лет;3;"bash; ci/cd; grafana";14;257500.0
+От 3 до 6 лет;3;"bash; docker; prometheus";36;257500.0
+От 3 до 6 лет;3;"bash; elk; prometheus";16;257500.0
+От 3 до 6 лет;3;"ci/cd; docker; grafana";28;257500.0
+От 3 до 6 лет;3;"ci/cd; elk; grafana";12;257500.0
+От 3 до 6 лет;3;"ci/cd; elk; prometheus";12;257500.0
+От 3 до 6 лет;3;"ci/cd; grafana; prometheus";24;257500.0
+От 3 до 6 лет;3;"devops; kafka; prometheus";10;257500.0
+От 3 до 6 лет;3;"devops; postgresql; sql";10;257500.0
+От 3 до 6 лет;3;"docker; linux; terraform";32;257500.0
+От 3 до 6 лет;3;"elk; grafana; kubernetes";32;257500.0
+От 3 до 6 лет;3;"elk; kubernetes; postgresql";12;257500.0
+От 3 до 6 лет;3;"elk; postgresql; prometheus";12;257500.0
+От 3 до 6 лет;3;"elk; prometheus; terraform";12;257500.0
+От 3 до 6 лет;3;"kafka; linux; postgresql";18;257500.0
+От 3 до 6 лет;3;"kafka; linux; terraform";12;257500.0
+От 3 до 6 лет;3;"linux; postgresql; zabbix";14;257500.0
+От 3 до 6 лет;3;"ansible; bash; elk";16;255000.0
+От 3 до 6 лет;3;"ansible; helm; kubernetes";12;255000.0
+От 3 до 6 лет;3;"ansible; nginx; redis";14;255000.0
+От 3 до 6 лет;3;"bash; linux; nginx";32;255000.0
+От 3 до 6 лет;3;"ci/cd; kubernetes; nginx";15;255000.0
+От 3 до 6 лет;3;"docker; elk; gitlab";20;255000.0
+От 3 до 6 лет;3;"docker; helm; linux";12;255000.0
+От 3 до 6 лет;3;"docker; kubernetes; rabbitmq";16;255000.0
+От 3 до 6 лет;3;"docker; nginx; python";26;255000.0
+От 3 до 6 лет;3;"elk; nginx; python";16;255000.0
+От 3 до 6 лет;3;"gitlab; linux; redis";12;255000.0
+От 3 до 6 лет;3;"linux; nginx; redis";14;255000.0
+От 3 до 6 лет;3;"ansible; bash; clickhouse";10;250000.0
+От 3 до 6 лет;3;"ansible; bash; docker";40;250000.0
+От 3 до 6 лет;3;"ansible; bash; grafana";24;250000.0
+От 3 до 6 лет;3;"ansible; bash; jenkins";20;250000.0
+От 3 до 6 лет;3;"ansible; bash; kafka";12;250000.0
+От 3 до 6 лет;3;"ansible; bash; prometheus";36;250000.0
+От 3 до 6 лет;3;"ansible; bash; rabbitmq";10;250000.0
+От 3 до 6 лет;3;"ansible; bash; terraform";23;250000.0
+От 3 до 6 лет;3;"ansible; bash; zabbix";11;250000.0
+От 3 до 6 лет;3;"ansible; bash; администрирование серверов linux";13;250000.0
+От 3 до 6 лет;3;"ansible; ci/cd; docker";29;250000.0
+От 3 до 6 лет;3;"ansible; clickhouse; docker";16;250000.0
+От 3 до 6 лет;3;"ansible; clickhouse; grafana";11;250000.0
+От 3 до 6 лет;3;"ansible; clickhouse; kubernetes";10;250000.0
+От 3 до 6 лет;3;"ansible; clickhouse; linux";16;250000.0
+От 3 до 6 лет;3;"ansible; clickhouse; postgresql";13;250000.0
+От 3 до 6 лет;3;"ansible; clickhouse; prometheus";13;250000.0
+От 3 до 6 лет;3;"ansible; clickhouse; redis";12;250000.0
+От 3 до 6 лет;3;"ansible; devops; grafana";22;250000.0
+От 3 до 6 лет;3;"ansible; devops; администрирование серверов linux";23;250000.0
+От 3 до 6 лет;3;"ansible; docker; elasticsearch";13;250000.0
+От 3 до 6 лет;3;"ansible; docker; elk";24;250000.0
+От 3 до 6 лет;3;"ansible; docker; grafana";51;250000.0
+От 3 до 6 лет;3;"ansible; docker; helm";11;250000.0
+От 3 до 6 лет;3;"ansible; docker; jenkins";19;250000.0
+От 3 до 6 лет;3;"ansible; docker; kafka";15;250000.0
+От 3 до 6 лет;3;"ansible; docker; linux";59;250000.0
+От 3 до 6 лет;3;"ansible; docker; prometheus";52;250000.0
+От 3 до 6 лет;3;"ansible; docker; rabbitmq";20;250000.0
+От 3 до 6 лет;3;"ansible; docker; redis";24;250000.0
+От 3 до 6 лет;3;"ansible; docker; teamcity";10;250000.0
+От 3 до 6 лет;3;"ansible; elasticsearch; grafana";14;250000.0
+От 3 до 6 лет;3;"ansible; elasticsearch; jenkins";10;250000.0
+От 3 до 6 лет;3;"ansible; elasticsearch; linux";13;250000.0
+От 3 до 6 лет;3;"ansible; elasticsearch; postgresql";12;250000.0
+От 3 до 6 лет;3;"ansible; elasticsearch; prometheus";13;250000.0
+От 3 до 6 лет;3;"ansible; elk; git";14;250000.0
+От 3 до 6 лет;3;"ansible; elk; grafana";20;250000.0
+От 3 до 6 лет;3;"ansible; elk; linux";23;250000.0
+От 3 до 6 лет;3;"ansible; elk; nginx";19;250000.0
+От 3 до 6 лет;3;"ansible; elk; prometheus";21;250000.0
+От 3 до 6 лет;3;"ansible; elk; rabbitmq";12;250000.0
+От 3 до 6 лет;3;"ansible; git; grafana";20;250000.0
+От 3 до 6 лет;3;"ansible; git; linux";33;250000.0
+От 3 до 6 лет;3;"ansible; git; prometheus";21;250000.0
+От 3 до 6 лет;3;"ansible; grafana; jenkins";18;250000.0
+От 3 до 6 лет;3;"ansible; grafana; kafka";13;250000.0
+От 3 до 6 лет;3;"ansible; grafana; linux";38;250000.0
+От 3 до 6 лет;3;"ansible; grafana; postgresql";35;250000.0
+От 3 до 6 лет;3;"ansible; grafana; prometheus";48;250000.0
+От 3 до 6 лет;3;"ansible; grafana; rabbitmq";17;250000.0
+От 3 до 6 лет;3;"ansible; grafana; redis";16;250000.0
+От 3 до 6 лет;3;"ansible; grafana; terraform";28;250000.0
+От 3 до 6 лет;3;"ansible; helm; linux";11;250000.0
+От 3 до 6 лет;3;"ansible; jenkins; kubernetes";20;250000.0
+От 3 до 6 лет;3;"ansible; jenkins; linux";26;250000.0
+От 3 до 6 лет;3;"ansible; jenkins; prometheus";17;250000.0
+От 3 до 6 лет;3;"ansible; jenkins; terraform";14;250000.0
+От 3 до 6 лет;3;"ansible; kafka; kubernetes";13;250000.0
+От 3 до 6 лет;3;"ansible; kafka; linux";13;250000.0
+От 3 до 6 лет;3;"ansible; kafka; postgresql";14;250000.0
+От 3 до 6 лет;3;"ansible; kafka; prometheus";13;250000.0
+От 3 до 6 лет;3;"ansible; kafka; terraform";10;250000.0
+От 3 до 6 лет;3;"ansible; kubernetes; администрирование серверов linux";15;250000.0
+От 3 до 6 лет;3;"ansible; linux; nginx";39;250000.0
+От 3 до 6 лет;3;"ansible; linux; prometheus";46;250000.0
+От 3 до 6 лет;3;"ansible; linux; rabbitmq";18;250000.0
+От 3 до 6 лет;3;"ansible; linux; redis";23;250000.0
+От 3 до 6 лет;3;"ansible; linux; terraform";34;250000.0
+От 3 до 6 лет;3;"ansible; nginx; prometheus";28;250000.0
+От 3 до 6 лет;3;"ansible; postgresql; rabbitmq";12;250000.0
+От 3 до 6 лет;3;"ansible; postgresql; redis";17;250000.0
+От 3 до 6 лет;3;"ansible; postgresql; terraform";21;250000.0
+От 3 до 6 лет;3;"ansible; prometheus; rabbitmq";16;250000.0
+От 3 до 6 лет;3;"ansible; prometheus; redis";15;250000.0
+От 3 до 6 лет;3;"ansible; prometheus; terraform";31;250000.0
+От 3 до 6 лет;3;"ansible; prometheus; администрирование серверов linux";18;250000.0
+От 3 до 6 лет;3;"ansible; rabbitmq; redis";15;250000.0
+От 3 до 6 лет;3;"aws; docker; kubernetes";12;250000.0
+От 3 до 6 лет;3;"bash; clickhouse; kubernetes";10;250000.0
+От 3 до 6 лет;3;"bash; clickhouse; linux";10;250000.0
+От 3 до 6 лет;3;"bash; clickhouse; prometheus";10;250000.0
+От 3 до 6 лет;3;"bash; devops; docker";43;250000.0
+От 3 до 6 лет;3;"bash; devops; администрирование серверов linux";14;250000.0
+От 3 до 6 лет;3;"bash; docker; grafana";27;250000.0
+От 3 до 6 лет;3;"bash; docker; jenkins";15;250000.0
+От 3 до 6 лет;3;"bash; docker; kafka";13;250000.0
+От 3 до 6 лет;3;"bash; docker; linux";51;250000.0
+От 3 до 6 лет;3;"bash; docker; nginx";23;250000.0
+От 3 до 6 лет;3;"bash; docker; postgresql";33;250000.0
+От 3 до 6 лет;3;"bash; docker; rabbitmq";12;250000.0
+От 3 до 6 лет;3;"bash; docker; teamcity";10;250000.0
+От 3 до 6 лет;3;"bash; docker; terraform";17;250000.0
+От 3 до 6 лет;3;"bash; docker; администрирование серверов linux";11;250000.0
+От 3 до 6 лет;3;"bash; git; linux";32;250000.0
+От 3 до 6 лет;3;"bash; git; prometheus";14;250000.0
+От 3 до 6 лет;3;"bash; grafana; jenkins";14;250000.0
+От 3 до 6 лет;3;"bash; grafana; kafka";13;250000.0
+От 3 до 6 лет;3;"bash; grafana; kubernetes";26;250000.0
+От 3 до 6 лет;3;"bash; grafana; linux";32;250000.0
+От 3 до 6 лет;3;"bash; grafana; postgresql";17;250000.0
+От 3 до 6 лет;3;"bash; grafana; prometheus";33;250000.0
+От 3 до 6 лет;3;"bash; grafana; rabbitmq";10;250000.0
+От 3 до 6 лет;3;"bash; grafana; terraform";19;250000.0
+От 3 до 6 лет;3;"bash; jenkins; kafka";10;250000.0
+От 3 до 6 лет;3;"bash; jenkins; kubernetes";16;250000.0
+От 3 до 6 лет;3;"bash; jenkins; linux";27;250000.0
+От 3 до 6 лет;3;"bash; jenkins; postgresql";13;250000.0
+От 3 до 6 лет;3;"bash; jenkins; prometheus";16;250000.0
+От 3 до 6 лет;3;"bash; kafka; kubernetes";11;250000.0
+От 3 до 6 лет;3;"bash; kafka; linux";13;250000.0
+От 3 до 6 лет;3;"bash; kafka; postgresql";10;250000.0
+От 3 до 6 лет;3;"bash; kafka; prometheus";14;250000.0
+От 3 до 6 лет;3;"bash; kafka; terraform";10;250000.0
+От 3 до 6 лет;3;"bash; kubernetes; rabbitmq";10;250000.0
+От 3 до 6 лет;3;"bash; kubernetes; terraform";19;250000.0
+От 3 до 6 лет;3;"bash; linux; postgresql";34;250000.0
+От 3 до 6 лет;3;"bash; linux; prometheus";39;250000.0
+От 3 до 6 лет;3;"bash; linux; rabbitmq";13;250000.0
+От 3 до 6 лет;3;"bash; linux; terraform";21;250000.0
+От 3 до 6 лет;3;"bash; linux; администрирование серверов linux";12;250000.0
+От 3 до 6 лет;3;"bash; nginx; prometheus";21;250000.0
+От 3 до 6 лет;3;"bash; nginx; администрирование серверов linux";10;250000.0
+От 3 до 6 лет;3;"bash; postgresql; prometheus";24;250000.0
+От 3 до 6 лет;3;"bash; postgresql; terraform";13;250000.0
+От 3 до 6 лет;3;"bash; prometheus; rabbitmq";10;250000.0
+От 3 до 6 лет;3;"bash; prometheus; terraform";21;250000.0
+От 3 до 6 лет;3;"bash; prometheus; администрирование серверов linux";10;250000.0
+От 3 до 6 лет;3;"bash; python; администрирование серверов linux";10;250000.0
+От 3 до 6 лет;3;"ci/cd; devops; terraform";11;250000.0
+От 3 до 6 лет;3;"ci/cd; docker; elk";15;250000.0
+От 3 до 6 лет;3;"ci/cd; docker; jenkins";12;250000.0
+От 3 до 6 лет;3;"ci/cd; docker; linux";44;250000.0
+От 3 до 6 лет;3;"ci/cd; docker; postgresql";23;250000.0
+От 3 до 6 лет;3;"ci/cd; docker; terraform";11;250000.0
+От 3 до 6 лет;3;"ci/cd; elk; nginx";11;250000.0
+От 3 до 6 лет;3;"ci/cd; linux; nginx";25;250000.0
+От 3 до 6 лет;3;"ci/cd; postgresql; prometheus";14;250000.0
+От 3 до 6 лет;3;"clickhouse; docker; kubernetes";11;250000.0
+От 3 до 6 лет;3;"clickhouse; docker; linux";17;250000.0
+От 3 до 6 лет;3;"clickhouse; docker; postgresql";12;250000.0
+От 3 до 6 лет;3;"clickhouse; docker; prometheus";12;250000.0
+От 3 до 6 лет;3;"clickhouse; docker; rabbitmq";11;250000.0
+От 3 до 6 лет;3;"clickhouse; docker; redis";13;250000.0
+От 3 до 6 лет;3;"clickhouse; grafana; prometheus";10;250000.0
+От 3 до 6 лет;3;"clickhouse; grafana; rabbitmq";11;250000.0
+От 3 до 6 лет;3;"clickhouse; grafana; redis";10;250000.0
+От 3 до 6 лет;3;"clickhouse; kubernetes; linux";12;250000.0
+От 3 до 6 лет;3;"clickhouse; kubernetes; postgresql";10;250000.0
+От 3 до 6 лет;3;"clickhouse; kubernetes; prometheus";11;250000.0
+От 3 до 6 лет;3;"clickhouse; linux; postgresql";12;250000.0
+От 3 до 6 лет;3;"clickhouse; linux; prometheus";13;250000.0
+От 3 до 6 лет;3;"clickhouse; linux; rabbitmq";11;250000.0
+От 3 до 6 лет;3;"clickhouse; linux; redis";12;250000.0
+От 3 до 6 лет;3;"clickhouse; postgresql; prometheus";10;250000.0
+От 3 до 6 лет;3;"clickhouse; prometheus; rabbitmq";10;250000.0
+От 3 до 6 лет;3;"clickhouse; prometheus; redis";10;250000.0
+От 3 до 6 лет;3;"clickhouse; rabbitmq; redis";10;250000.0
+От 3 до 6 лет;3;"devops; docker; jenkins";12;250000.0
+От 3 до 6 лет;3;"devops; docker; linux";88;250000.0
+От 3 до 6 лет;3;"devops; docker; python";33;250000.0
+От 3 до 6 лет;3;"devops; docker; sql";13;250000.0
+От 3 до 6 лет;3;"devops; elk; nginx";14;250000.0
+От 3 до 6 лет;3;"devops; gitlab; администрирование серверов linux";17;250000.0
+От 3 до 6 лет;3;"devops; grafana; postgresql";27;250000.0
+От 3 до 6 лет;3;"devops; jenkins; kubernetes";10;250000.0
+От 3 до 6 лет;3;"devops; kafka; postgresql";14;250000.0
+От 3 до 6 лет;3;"devops; kubernetes; redis";10;250000.0
+От 3 до 6 лет;3;"devops; linux; sql";15;250000.0
+От 3 до 6 лет;3;"devops; nginx; postgresql";31;250000.0
+От 3 до 6 лет;3;"devops; nginx; prometheus";24;250000.0
+От 3 до 6 лет;3;"devops; postgresql; администрирование серверов linux";20;250000.0
+От 3 до 6 лет;3;"devops; prometheus; администрирование серверов linux";19;250000.0
+От 3 до 6 лет;3;"devops; python; администрирование серверов linux";11;250000.0
+От 3 до 6 лет;3;"docker; elasticsearch; grafana";13;250000.0
+От 3 до 6 лет;3;"docker; elasticsearch; jenkins";10;250000.0
+От 3 до 6 лет;3;"docker; elasticsearch; postgresql";10;250000.0
+От 3 до 6 лет;3;"docker; elasticsearch; prometheus";11;250000.0
+От 3 до 6 лет;3;"docker; elasticsearch; redis";11;250000.0
+От 3 до 6 лет;3;"docker; elk; git";11;250000.0
+От 3 до 6 лет;3;"docker; elk; grafana";39;250000.0
+От 3 до 6 лет;3;"docker; elk; jenkins";11;250000.0
+От 3 до 6 лет;3;"docker; elk; linux";41;250000.0
+От 3 до 6 лет;3;"docker; elk; postgresql";14;250000.0
+От 3 до 6 лет;3;"docker; elk; prometheus";27;250000.0
+От 3 до 6 лет;3;"docker; elk; python";22;250000.0
+От 3 до 6 лет;3;"docker; elk; rabbitmq";12;250000.0
+От 3 до 6 лет;3;"docker; elk; zabbix";25;250000.0
+От 3 до 6 лет;3;"docker; git; grafana";28;250000.0
+От 3 до 6 лет;3;"docker; git; prometheus";23;250000.0
+От 3 до 6 лет;3;"docker; git; terraform";13;250000.0
+От 3 до 6 лет;3;"docker; gitlab; nginx";25;250000.0
+От 3 до 6 лет;3;"docker; gitlab; redis";13;250000.0
+От 3 до 6 лет;3;"docker; gitlab; администрирование серверов linux";17;250000.0
+От 3 до 6 лет;3;"docker; grafana; jenkins";25;250000.0
+От 3 до 6 лет;3;"docker; grafana; kafka";21;250000.0
+От 3 до 6 лет;3;"docker; grafana; linux";63;250000.0
+От 3 до 6 лет;3;"docker; grafana; postgresql";44;250000.0
+От 3 до 6 лет;3;"docker; grafana; prometheus";52;250000.0
+От 3 до 6 лет;3;"docker; grafana; rabbitmq";22;250000.0
+От 3 до 6 лет;3;"docker; jenkins; kafka";11;250000.0
+От 3 до 6 лет;3;"docker; jenkins; kubernetes";30;250000.0
+От 3 до 6 лет;3;"docker; jenkins; linux";31;250000.0
+От 3 до 6 лет;3;"docker; jenkins; postgresql";15;250000.0
+От 3 до 6 лет;3;"docker; jenkins; prometheus";18;250000.0
+От 3 до 6 лет;3;"docker; jenkins; python";15;250000.0
+От 3 до 6 лет;3;"docker; jenkins; terraform";10;250000.0
+От 3 до 6 лет;3;"docker; kafka; kubernetes";25;250000.0
+От 3 до 6 лет;3;"docker; kafka; linux";23;250000.0
+От 3 до 6 лет;3;"docker; kafka; postgresql";20;250000.0
+От 3 до 6 лет;3;"docker; kafka; prometheus";15;250000.0
+От 3 до 6 лет;3;"docker; kafka; redis";10;250000.0
+От 3 до 6 лет;3;"docker; kafka; terraform";14;250000.0
+От 3 до 6 лет;3;"docker; kubernetes; nginx";42;250000.0
+От 3 до 6 лет;3;"docker; kubernetes; redis";17;250000.0
+От 3 до 6 лет;3;"docker; kubernetes; teamcity";11;250000.0
+От 3 до 6 лет;3;"docker; kubernetes; windows server";12;250000.0
+От 3 до 6 лет;3;"docker; kubernetes; zabbix";46;250000.0
+От 3 до 6 лет;3;"docker; linux; postgresql";53;250000.0
+От 3 до 6 лет;3;"docker; linux; prometheus";50;250000.0
+От 3 до 6 лет;3;"docker; linux; redis";26;250000.0
+От 3 до 6 лет;3;"docker; linux; teamcity";14;250000.0
+От 3 до 6 лет;3;"docker; linux; zabbix";45;250000.0
+От 3 до 6 лет;3;"docker; nginx; prometheus";28;250000.0
+От 3 до 6 лет;3;"docker; nginx; redis";16;250000.0
+От 3 до 6 лет;3;"docker; postgresql; rabbitmq";13;250000.0
+От 3 до 6 лет;3;"docker; postgresql; redis";22;250000.0
+От 3 до 6 лет;3;"docker; postgresql; terraform";23;250000.0
+От 3 до 6 лет;3;"docker; postgresql; администрирование серверов linux";20;250000.0
+От 3 до 6 лет;3;"docker; prometheus; rabbitmq";17;250000.0
+От 3 до 6 лет;3;"docker; prometheus; redis";15;250000.0
+От 3 до 6 лет;3;"docker; prometheus; terraform";26;250000.0
+От 3 до 6 лет;3;"docker; prometheus; администрирование серверов linux";19;250000.0
+От 3 до 6 лет;3;"docker; python; zabbix";26;250000.0
+От 3 до 6 лет;3;"docker; rabbitmq; redis";15;250000.0
+От 3 до 6 лет;3;"elasticsearch; grafana; jenkins";10;250000.0
+От 3 до 6 лет;3;"elasticsearch; grafana; linux";11;250000.0
+От 3 до 6 лет;3;"elasticsearch; grafana; postgresql";11;250000.0
+От 3 до 6 лет;3;"elasticsearch; grafana; prometheus";13;250000.0
+От 3 до 6 лет;3;"elasticsearch; jenkins; postgresql";10;250000.0
+От 3 до 6 лет;3;"elasticsearch; linux; postgresql";10;250000.0
+От 3 до 6 лет;3;"elasticsearch; linux; prometheus";10;250000.0
+От 3 до 6 лет;3;"elasticsearch; linux; rabbitmq";11;250000.0
+От 3 до 6 лет;3;"elk; git; grafana";10;250000.0
+От 3 до 6 лет;3;"elk; git; linux";15;250000.0
+От 3 до 6 лет;3;"elk; git; prometheus";11;250000.0
+От 3 до 6 лет;3;"elk; gitlab; postgresql";13;250000.0
+От 3 до 6 лет;3;"elk; gitlab; redis";10;250000.0
+От 3 до 6 лет;3;"elk; grafana; linux";35;250000.0
+От 3 до 6 лет;3;"elk; grafana; postgresql";14;250000.0
+От 3 до 6 лет;3;"elk; grafana; prometheus";26;250000.0
+От 3 до 6 лет;3;"elk; grafana; zabbix";24;250000.0
+От 3 до 6 лет;3;"elk; jenkins; linux";15;250000.0
+От 3 до 6 лет;3;"elk; jenkins; nginx";12;250000.0
+От 3 до 6 лет;3;"elk; jenkins; python";12;250000.0
+От 3 до 6 лет;3;"elk; kubernetes; nginx";15;250000.0
+От 3 до 6 лет;3;"elk; kubernetes; python";20;250000.0
+От 3 до 6 лет;3;"elk; kubernetes; zabbix";25;250000.0
+От 3 до 6 лет;3;"elk; linux; nginx";25;250000.0
+От 3 до 6 лет;3;"elk; linux; postgresql";15;250000.0
+От 3 до 6 лет;3;"elk; linux; prometheus";22;250000.0
+От 3 до 6 лет;3;"elk; linux; zabbix";23;250000.0
+От 3 до 6 лет;3;"elk; nginx; prometheus";13;250000.0
+От 3 до 6 лет;3;"elk; nginx; redis";10;250000.0
+От 3 до 6 лет;3;"elk; prometheus; rabbitmq";11;250000.0
+От 3 до 6 лет;3;"git; grafana; linux";27;250000.0
+От 3 до 6 лет;3;"git; grafana; prometheus";15;250000.0
+От 3 до 6 лет;3;"git; helm; linux";10;250000.0
+От 3 до 6 лет;3;"git; kafka; kubernetes";11;250000.0
+От 3 до 6 лет;3;"git; linux; prometheus";21;250000.0
+От 3 до 6 лет;3;"git; prometheus; terraform";11;250000.0
+От 3 до 6 лет;3;"gitlab; grafana; nginx";13;250000.0
+От 3 до 6 лет;3;"gitlab; grafana; postgresql";19;250000.0
+От 3 до 6 лет;3;"gitlab; linux; zabbix";23;250000.0
+От 3 до 6 лет;3;"gitlab; mysql; nginx";11;250000.0
+От 3 до 6 лет;3;"gitlab; nginx; postgresql";27;250000.0
+От 3 до 6 лет;3;"gitlab; nginx; rabbitmq";10;250000.0
+От 3 до 6 лет;3;"gitlab; nginx; администрирование серверов linux";13;250000.0
+От 3 до 6 лет;3;"gitlab; postgresql; администрирование серверов linux";13;250000.0
+От 3 до 6 лет;3;"grafana; jenkins; kafka";11;250000.0
+От 3 до 6 лет;3;"grafana; jenkins; kubernetes";27;250000.0
+От 3 до 6 лет;3;"grafana; jenkins; postgresql";15;250000.0
+От 3 до 6 лет;3;"grafana; jenkins; prometheus";20;250000.0
+От 3 до 6 лет;3;"grafana; jenkins; terraform";11;250000.0
+От 3 до 6 лет;3;"grafana; kafka; postgresql";15;250000.0
+От 3 до 6 лет;3;"grafana; kafka; prometheus";17;250000.0
+От 3 до 6 лет;3;"grafana; kafka; terraform";15;250000.0
+От 3 до 6 лет;3;"grafana; kubernetes; linux";61;250000.0
+От 3 до 6 лет;3;"grafana; kubernetes; rabbitmq";13;250000.0
+От 3 до 6 лет;3;"grafana; kubernetes; redis";11;250000.0
+От 3 до 6 лет;3;"grafana; kubernetes; администрирование серверов linux";12;250000.0
+От 3 до 6 лет;3;"grafana; linux; postgresql";36;250000.0
+От 3 до 6 лет;3;"grafana; linux; prometheus";45;250000.0
+От 3 до 6 лет;3;"grafana; linux; terraform";24;250000.0
+От 3 до 6 лет;3;"grafana; postgresql; prometheus";32;250000.0
+От 3 до 6 лет;3;"grafana; postgresql; rabbitmq";13;250000.0
+От 3 до 6 лет;3;"grafana; postgresql; terraform";20;250000.0
+От 3 до 6 лет;3;"grafana; postgresql; zabbix";16;250000.0
+От 3 до 6 лет;3;"grafana; postgresql; администрирование серверов linux";11;250000.0
+От 3 до 6 лет;3;"grafana; prometheus; rabbitmq";17;250000.0
+От 3 до 6 лет;3;"grafana; prometheus; redis";13;250000.0
+От 3 до 6 лет;3;"grafana; prometheus; terraform";28;250000.0
+От 3 до 6 лет;3;"grafana; rabbitmq; redis";13;250000.0
+От 3 до 6 лет;3;"helm; kubernetes; linux";13;250000.0
+От 3 до 6 лет;3;"jenkins; kafka; kubernetes";11;250000.0
+От 3 до 6 лет;3;"jenkins; kafka; linux";12;250000.0
+От 3 до 6 лет;3;"jenkins; kafka; postgresql";11;250000.0
+От 3 до 6 лет;3;"jenkins; kafka; prometheus";12;250000.0
+От 3 до 6 лет;3;"jenkins; kubernetes; linux";28;250000.0
+От 3 до 6 лет;3;"jenkins; kubernetes; postgresql";13;250000.0
+От 3 до 6 лет;3;"jenkins; kubernetes; prometheus";21;250000.0
+От 3 до 6 лет;3;"jenkins; kubernetes; terraform";13;250000.0
+От 3 до 6 лет;3;"jenkins; linux; postgresql";18;250000.0
+От 3 до 6 лет;3;"jenkins; linux; prometheus";19;250000.0
+От 3 до 6 лет;3;"jenkins; linux; terraform";14;250000.0
+От 3 до 6 лет;3;"jenkins; postgresql; prometheus";14;250000.0
+От 3 до 6 лет;3;"kafka; kubernetes; linux";23;250000.0
+От 3 до 6 лет;3;"kafka; kubernetes; postgresql";17;250000.0
+От 3 до 6 лет;3;"kafka; kubernetes; prometheus";15;250000.0
+От 3 до 6 лет;3;"kafka; kubernetes; terraform";13;250000.0
+От 3 до 6 лет;3;"kafka; linux; prometheus";18;250000.0
+От 3 до 6 лет;3;"kafka; linux; rabbitmq";10;250000.0
+От 3 до 6 лет;3;"kafka; postgresql; prometheus";15;250000.0
+От 3 до 6 лет;3;"kafka; postgresql; terraform";11;250000.0
+От 3 до 6 лет;3;"kafka; prometheus; terraform";10;250000.0
+От 3 до 6 лет;3;"kubernetes; linux; rabbitmq";14;250000.0
+От 3 до 6 лет;3;"kubernetes; linux; redis";15;250000.0
+От 3 до 6 лет;3;"kubernetes; linux; teamcity";10;250000.0
+От 3 до 6 лет;3;"kubernetes; linux; zabbix";47;250000.0
+От 3 до 6 лет;3;"kubernetes; postgresql; rabbitmq";10;250000.0
+От 3 до 6 лет;3;"kubernetes; postgresql; redis";15;250000.0
+От 3 до 6 лет;3;"kubernetes; prometheus; rabbitmq";11;250000.0
+От 3 до 6 лет;3;"kubernetes; prometheus; terraform";27;250000.0
+От 3 до 6 лет;3;"kubernetes; python; zabbix";25;250000.0
+От 3 до 6 лет;3;"linux; nginx; postgresql";29;250000.0
+От 3 до 6 лет;3;"linux; nginx; prometheus";29;250000.0
+От 3 до 6 лет;3;"linux; nginx; python";31;250000.0
+От 3 до 6 лет;3;"linux; postgresql; rabbitmq";12;250000.0
+От 3 до 6 лет;3;"linux; postgresql; redis";19;250000.0
+От 3 до 6 лет;3;"linux; postgresql; terraform";19;250000.0
+От 3 до 6 лет;3;"linux; prometheus; rabbitmq";15;250000.0
+От 3 до 6 лет;3;"linux; prometheus; redis";14;250000.0
+От 3 до 6 лет;3;"linux; prometheus; terraform";24;250000.0
+От 3 до 6 лет;3;"linux; prometheus; администрирование серверов linux";18;250000.0
+От 3 до 6 лет;3;"linux; python; terraform";13;250000.0
+От 3 до 6 лет;3;"linux; python; zabbix";25;250000.0
+От 3 до 6 лет;3;"linux; python; администрирование серверов linux";10;250000.0
+От 3 до 6 лет;3;"linux; rabbitmq; redis";15;250000.0
+От 3 до 6 лет;3;"nginx; postgresql; администрирование серверов linux";12;250000.0
+От 3 до 6 лет;3;"postgresql; prometheus; rabbitmq";13;250000.0
+От 3 до 6 лет;3;"postgresql; prometheus; redis";12;250000.0
+От 3 до 6 лет;3;"postgresql; prometheus; terraform";19;250000.0
+От 3 до 6 лет;3;"postgresql; rabbitmq; redis";10;250000.0
+От 3 до 6 лет;3;"prometheus; rabbitmq; redis";12;250000.0
+От 3 до 6 лет;3;"ansible; devops; rabbitmq";10;245000.0
+От 3 до 6 лет;3;"docker; elk; nginx";22;240000.0
+От 3 до 6 лет;3;"docker; jenkins; nginx";16;240000.0
+От 3 до 6 лет;3;"elk; grafana; python";20;240000.0
+От 3 до 6 лет;3;"elk; jenkins; kubernetes";10;240000.0
+От 3 до 6 лет;3;"elk; python; zabbix";18;240000.0
+От 3 до 6 лет;3;"grafana; jenkins; linux";26;240000.0
+От 3 до 6 лет;3;"grafana; python; zabbix";22;240000.0
+От 3 до 6 лет;3;"jenkins; linux; python";26;240000.0
+От 3 до 6 лет;3;"ansible; grafana; nginx";26;237500.0
+От 3 до 6 лет;3;"ansible; nginx; terraform";10;237500.0
+От 3 до 6 лет;3;"bash; jenkins; terraform";12;237500.0
+От 3 до 6 лет;3;"jenkins; prometheus; terraform";12;237500.0
+От 3 до 6 лет;3;"ci/cd; devops; nginx";24;235000.0
+От 3 до 6 лет;3;"ci/cd; grafana; postgresql";14;235000.0
+От 3 до 6 лет;3;"docker; python; sql";10;232500.0
+От 3 до 6 лет;3;"grafana; linux; redis";18;232500.0
+От 3 до 6 лет;3;"grafana; postgresql; redis";14;232500.0
+От 3 до 6 лет;3;"ansible; docker; администрирование серверов linux";22;230000.0
+От 3 до 6 лет;3;"ansible; nginx; zabbix";10;230000.0
+От 3 до 6 лет;3;"bash; docker; git";23;230000.0
+От 3 до 6 лет;3;"devops; docker; git";37;230000.0
+От 3 до 6 лет;3;"devops; nginx; terraform";10;230000.0
+От 3 до 6 лет;3;"devops; nginx; zabbix";14;230000.0
+От 3 до 6 лет;3;"docker; elk; haproxy";11;230000.0
+От 3 до 6 лет;3;"docker; git; linux";51;230000.0
+От 3 до 6 лет;3;"docker; grafana; haproxy";11;230000.0
+От 3 до 6 лет;3;"docker; grafana; nginx";37;230000.0
+От 3 до 6 лет;3;"docker; haproxy; linux";11;230000.0
+От 3 до 6 лет;3;"docker; haproxy; nginx";11;230000.0
+От 3 до 6 лет;3;"docker; jenkins; zabbix";10;230000.0
+От 3 до 6 лет;3;"docker; linux; nginx";52;230000.0
+От 3 до 6 лет;3;"docker; nginx; zabbix";21;230000.0
+От 3 до 6 лет;3;"elk; grafana; haproxy";11;230000.0
+От 3 до 6 лет;3;"elk; grafana; nginx";21;230000.0
+От 3 до 6 лет;3;"elk; haproxy; linux";11;230000.0
+От 3 до 6 лет;3;"elk; haproxy; nginx";11;230000.0
+От 3 до 6 лет;3;"elk; nginx; zabbix";13;230000.0
+От 3 до 6 лет;3;"git; nginx; prometheus";10;230000.0
+От 3 до 6 лет;3;"gitlab; linux; администрирование серверов linux";18;230000.0
+От 3 до 6 лет;3;"grafana; haproxy; linux";11;230000.0
+От 3 до 6 лет;3;"grafana; haproxy; nginx";11;230000.0
+От 3 до 6 лет;3;"grafana; jenkins; nginx";19;230000.0
+От 3 до 6 лет;3;"grafana; jenkins; python";16;230000.0
+От 3 до 6 лет;3;"grafana; kubernetes; nginx";26;230000.0
+От 3 до 6 лет;3;"grafana; kubernetes; python";31;230000.0
+От 3 до 6 лет;3;"grafana; linux; python";31;230000.0
+От 3 до 6 лет;3;"grafana; nginx; python";23;230000.0
+От 3 до 6 лет;3;"grafana; nginx; zabbix";15;230000.0
+От 3 до 6 лет;3;"grafana; prometheus; администрирование серверов linux";18;230000.0
+От 3 до 6 лет;3;"haproxy; linux; nginx";12;230000.0
+От 3 до 6 лет;3;"jenkins; kubernetes; nginx";20;230000.0
+От 3 до 6 лет;3;"jenkins; kubernetes; python";18;230000.0
+От 3 до 6 лет;3;"jenkins; linux; nginx";20;230000.0
+От 3 до 6 лет;3;"jenkins; linux; zabbix";10;230000.0
+От 3 до 6 лет;3;"jenkins; nginx; python";19;230000.0
+От 3 до 6 лет;3;"kubernetes; linux; nginx";41;230000.0
+От 3 до 6 лет;3;"kubernetes; nginx; python";24;230000.0
+От 3 до 6 лет;3;"kubernetes; nginx; zabbix";21;230000.0
+От 3 до 6 лет;3;"linux; nginx; zabbix";21;230000.0
+От 3 до 6 лет;3;"nginx; python; zabbix";15;230000.0
+От 3 до 6 лет;3;"ansible; elasticsearch; rabbitmq";10;225000.0
+От 3 до 6 лет;3;"ansible; elasticsearch; redis";10;225000.0
+От 3 до 6 лет;3;"ansible; kubernetes; mysql";10;225000.0
+От 3 до 6 лет;3;"ansible; linux; mysql";15;225000.0
+От 3 до 6 лет;3;"ansible; mysql; nginx";14;225000.0
+От 3 до 6 лет;3;"ansible; mysql; prometheus";10;225000.0
+От 3 до 6 лет;3;"ansible; mysql; terraform";10;225000.0
+От 3 до 6 лет;3;"ansible; nginx; rabbitmq";10;225000.0
+От 3 до 6 лет;3;"bash; grafana; nginx";13;225000.0
+От 3 до 6 лет;3;"bash; jenkins; nginx";11;225000.0
+От 3 до 6 лет;3;"bash; nginx; terraform";10;225000.0
+От 3 до 6 лет;3;"bash; python; terraform";12;225000.0
+От 3 до 6 лет;3;"ci/cd; grafana; администрирование серверов linux";10;225000.0
+От 3 до 6 лет;3;"ci/cd; prometheus; администрирование серверов linux";10;225000.0
+От 3 до 6 лет;3;"devops; postgresql; redis";10;225000.0
+От 3 до 6 лет;3;"docker; elasticsearch; linux";10;225000.0
+От 3 до 6 лет;3;"docker; elasticsearch; rabbitmq";10;225000.0
+От 3 до 6 лет;3;"docker; elk; redis";12;225000.0
+От 3 до 6 лет;3;"docker; git; jenkins";12;225000.0
+От 3 до 6 лет;3;"docker; linux; rabbitmq";22;225000.0
+От 3 до 6 лет;3;"docker; postgresql; zabbix";14;225000.0
+От 3 до 6 лет;3;"elasticsearch; grafana; rabbitmq";10;225000.0
+От 3 до 6 лет;3;"elasticsearch; grafana; redis";10;225000.0
+От 3 до 6 лет;3;"elasticsearch; linux; redis";10;225000.0
+От 3 до 6 лет;3;"elasticsearch; rabbitmq; redis";10;225000.0
+От 3 до 6 лет;3;"elk; grafana; rabbitmq";10;225000.0
+От 3 до 6 лет;3;"elk; linux; rabbitmq";10;225000.0
+От 3 до 6 лет;3;"elk; linux; redis";12;225000.0
+От 3 до 6 лет;3;"elk; nginx; rabbitmq";10;225000.0
+От 3 до 6 лет;3;"gitlab; python; администрирование серверов linux";10;225000.0
+От 3 до 6 лет;3;"grafana; kubernetes; mysql";10;225000.0
+От 3 до 6 лет;3;"grafana; linux; nginx";33;225000.0
+От 3 до 6 лет;3;"grafana; mysql; nginx";11;225000.0
+От 3 до 6 лет;3;"grafana; mysql; python";10;225000.0
+От 3 до 6 лет;3;"grafana; nginx; prometheus";28;225000.0
+От 3 до 6 лет;3;"grafana; python; terraform";11;225000.0
+От 3 до 6 лет;3;"jenkins; nginx; prometheus";11;225000.0
+От 3 до 6 лет;3;"kubernetes; mysql; nginx";13;225000.0
+От 3 до 6 лет;3;"kubernetes; mysql; terraform";10;225000.0
+От 3 до 6 лет;3;"kubernetes; nginx; terraform";13;225000.0
+От 3 до 6 лет;3;"linux; mysql; prometheus";10;225000.0
+От 3 до 6 лет;3;"linux; mysql; python";11;225000.0
+От 3 до 6 лет;3;"linux; mysql; terraform";11;225000.0
+От 3 до 6 лет;3;"linux; nginx; terraform";15;225000.0
+От 3 до 6 лет;3;"mysql; nginx; postgresql";14;225000.0
+От 3 до 6 лет;3;"mysql; nginx; prometheus";11;225000.0
+От 3 до 6 лет;3;"mysql; nginx; terraform";12;225000.0
+От 3 до 6 лет;3;"nginx; prometheus; terraform";10;225000.0
+От 3 до 6 лет;3;"prometheus; python; terraform";13;225000.0
+От 3 до 6 лет;3;"ansible; linux; администрирование серверов linux";23;220000.0
+От 3 до 6 лет;3;"ci/cd; nginx; prometheus";15;220000.0
+От 3 до 6 лет;3;"devops; kubernetes; администрирование серверов linux";23;220000.0
+От 3 до 6 лет;3;"devops; linux; nginx";45;220000.0
+От 3 до 6 лет;3;"docker; git; nginx";30;220000.0
+От 3 до 6 лет;3;"git; linux; nginx";28;220000.0
+От 3 до 6 лет;3;"clickhouse; docker; grafana";13;215000.0
+От 3 до 6 лет;3;"clickhouse; grafana; linux";13;215000.0
+От 3 до 6 лет;3;"devops; kubernetes; nginx";30;215000.0
+От 3 до 6 лет;3;"docker; grafana; redis";19;215000.0
+От 3 до 6 лет;3;"kubernetes; linux; администрирование серверов linux";24;215000.0
+От 3 до 6 лет;3;"grafana; mysql; prometheus";10;212500.0
+От 3 до 6 лет;3;"ansible; grafana; администрирование серверов linux";14;210000.0
+От 3 до 6 лет;3;"ansible; nginx; администрирование серверов linux";18;210000.0
+От 3 до 6 лет;3;"ci/cd; docker; nginx";20;210000.0
+От 3 до 6 лет;3;"devops; grafana; администрирование серверов linux";20;210000.0
+От 3 до 6 лет;3;"docker; git; администрирование серверов linux";10;210000.0
+От 3 до 6 лет;3;"docker; grafana; администрирование серверов linux";19;210000.0
+От 3 до 6 лет;3;"docker; kubernetes; администрирование серверов linux";21;210000.0
+От 3 до 6 лет;3;"docker; nginx; terraform";11;210000.0
+От 3 до 6 лет;3;"git; grafana; nginx";15;210000.0
+От 3 до 6 лет;3;"git; linux; zabbix";21;210000.0
+От 3 до 6 лет;3;"git; linux; администрирование серверов linux";12;210000.0
+От 3 до 6 лет;3;"gitlab; kubernetes; администрирование серверов linux";15;210000.0
+От 3 до 6 лет;3;"grafana; linux; rabbitmq";20;210000.0
+От 3 до 6 лет;3;"kubernetes; linux; mysql";17;210000.0
+От 3 до 6 лет;3;"kubernetes; nginx; администрирование серверов linux";14;210000.0
+От 3 до 6 лет;3;"ansible; ci/cd; grafana";16;207500.0
+От 3 до 6 лет;3;"clickhouse; docker; nginx";10;207500.0
+От 3 до 6 лет;3;"clickhouse; linux; nginx";10;207500.0
+От 3 до 6 лет;3;"ansible; ci/cd; администрирование серверов linux";12;205000.0
+От 3 до 6 лет;3;"ci/cd; devops; администрирование серверов linux";16;205000.0
+От 3 до 6 лет;3;"devops; git; grafana";16;205000.0
+От 3 до 6 лет;3;"devops; git; nginx";28;205000.0
+От 3 до 6 лет;3;"devops; git; администрирование серверов linux";10;205000.0
+От 3 до 6 лет;3;"docker; git; zabbix";18;205000.0
+От 3 до 6 лет;3;"git; kubernetes; nginx";20;205000.0
+От 3 до 6 лет;3;"nginx; prometheus; администрирование серверов linux";14;205000.0
+От 3 до 6 лет;3;"ansible; docker; mysql";10;200000.0
+От 3 до 6 лет;3;"ansible; grafana; mysql";12;200000.0
+От 3 до 6 лет;3;"bash; devops; sql";11;200000.0
+От 3 до 6 лет;3;"bash; docker; sql";12;200000.0
+От 3 до 6 лет;3;"bash; linux; sql";13;200000.0
+От 3 до 6 лет;3;"ci/cd; docker; администрирование серверов linux";13;200000.0
+От 3 до 6 лет;3;"ci/cd; grafana; nginx";12;200000.0
+От 3 до 6 лет;3;"ci/cd; linux; rabbitmq";11;200000.0
+От 3 до 6 лет;3;"ci/cd; linux; администрирование серверов linux";14;200000.0
+От 3 до 6 лет;3;"ci/cd; nginx; администрирование серверов linux";11;200000.0
+От 3 до 6 лет;3;"clickhouse; devops; docker";11;200000.0
+От 3 до 6 лет;3;"devops; docker; mysql";18;200000.0
+От 3 до 6 лет;3;"devops; docker; nginx";46;200000.0
+От 3 до 6 лет;3;"devops; docker; rabbitmq";12;200000.0
+От 3 до 6 лет;3;"devops; docker; redis";14;200000.0
+От 3 до 6 лет;3;"devops; docker; администрирование серверов linux";39;200000.0
+От 3 до 6 лет;3;"devops; elk; администрирование серверов linux";12;200000.0
+От 3 до 6 лет;3;"devops; grafana; mysql";12;200000.0
+От 3 до 6 лет;3;"devops; grafana; nginx";20;200000.0
+От 3 до 6 лет;3;"devops; grafana; rabbitmq";12;200000.0
+От 3 до 6 лет;3;"devops; kubernetes; mysql";11;200000.0
+От 3 до 6 лет;3;"devops; linux; mysql";16;200000.0
+От 3 до 6 лет;3;"devops; linux; rabbitmq";11;200000.0
+От 3 до 6 лет;3;"devops; linux; redis";11;200000.0
+От 3 до 6 лет;3;"devops; linux; администрирование серверов linux";36;200000.0
+От 3 до 6 лет;3;"devops; mysql; nginx";13;200000.0
+От 3 до 6 лет;3;"devops; mysql; postgresql";14;200000.0
+От 3 до 6 лет;3;"devops; mysql; администрирование серверов linux";13;200000.0
+От 3 до 6 лет;3;"devops; nginx; администрирование серверов linux";25;200000.0
+От 3 до 6 лет;3;"devops; postgresql; zabbix";13;200000.0
+От 3 до 6 лет;3;"devops; prometheus; rabbitmq";11;200000.0
+От 3 до 6 лет;3;"devops; zabbix; администрирование серверов linux";10;200000.0
+От 3 до 6 лет;3;"docker; elk; администрирование серверов linux";12;200000.0
+От 3 до 6 лет;3;"docker; git; sql";10;200000.0
+От 3 до 6 лет;3;"docker; grafana; mysql";13;200000.0
+От 3 до 6 лет;3;"docker; kubernetes; mysql";10;200000.0
+От 3 до 6 лет;3;"docker; linux; mysql";19;200000.0
+От 3 до 6 лет;3;"docker; linux; администрирование серверов linux";34;200000.0
+От 3 до 6 лет;3;"docker; ms sql; postgresql";10;200000.0
+От 3 до 6 лет;3;"docker; mysql; nginx";15;200000.0
+От 3 до 6 лет;3;"docker; mysql; postgresql";16;200000.0
+От 3 до 6 лет;3;"docker; mysql; redis";10;200000.0
+От 3 до 6 лет;3;"docker; mysql; администрирование серверов linux";14;200000.0
+От 3 до 6 лет;3;"docker; nginx; rabbitmq";13;200000.0
+От 3 до 6 лет;3;"docker; nginx; администрирование серверов linux";26;200000.0
+От 3 до 6 лет;3;"docker; zabbix; администрирование серверов linux";12;200000.0
+От 3 до 6 лет;3;"elk; grafana; redis";11;200000.0
+От 3 до 6 лет;3;"elk; grafana; администрирование серверов linux";13;200000.0
+От 3 до 6 лет;3;"elk; linux; администрирование серверов linux";11;200000.0
+От 3 до 6 лет;3;"git; linux; mysql";10;200000.0
+От 3 до 6 лет;3;"gitlab; linux; mysql";10;200000.0
+От 3 до 6 лет;3;"gitlab; mysql; postgresql";10;200000.0
+От 3 до 6 лет;3;"gitlab; zabbix; администрирование серверов linux";11;200000.0
+От 3 до 6 лет;3;"grafana; linux; mysql";16;200000.0
+От 3 до 6 лет;3;"grafana; linux; администрирование серверов linux";17;200000.0
+От 3 до 6 лет;3;"grafana; mysql; postgresql";10;200000.0
+От 3 до 6 лет;3;"grafana; nginx; rabbitmq";12;200000.0
+От 3 до 6 лет;3;"grafana; nginx; администрирование серверов linux";12;200000.0
+От 3 до 6 лет;3;"kubernetes; mysql; postgresql";10;200000.0
+От 3 до 6 лет;3;"kubernetes; zabbix; администрирование серверов linux";11;200000.0
+От 3 до 6 лет;3;"linux; mysql; nginx";19;200000.0
+От 3 до 6 лет;3;"linux; mysql; postgresql";14;200000.0
+От 3 до 6 лет;3;"linux; mysql; redis";10;200000.0
+От 3 до 6 лет;3;"linux; mysql; администрирование серверов linux";13;200000.0
+От 3 до 6 лет;3;"linux; nginx; rabbitmq";14;200000.0
+От 3 до 6 лет;3;"linux; nginx; администрирование серверов linux";26;200000.0
+От 3 до 6 лет;3;"linux; zabbix; администрирование серверов linux";11;200000.0
+От 3 до 6 лет;3;"mysql; nginx; администрирование серверов linux";11;200000.0
+От 3 до 6 лет;3;"mysql; zabbix; администрирование серверов linux";10;200000.0
+От 3 до 6 лет;3;"nginx; prometheus; rabbitmq";10;200000.0
+От 3 до 6 лет;3;"nginx; zabbix; администрирование серверов linux";11;200000.0
+От 3 до 6 лет;3;"devops; nginx; rabbitmq";10;190000.0

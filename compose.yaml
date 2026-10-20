@@ -1,0 +1,34 @@
+services:
+  rustfs:
+    image: rustfs/rustfs:latest
+    container_name: rustfs
+    restart: unless-stopped
+
+    ports:
+      - "9000:9000"
+      - "9001:9001"
+
+    environment:
+      RUSTFS_ACCESS_KEY: "myrustfsuser"
+      RUSTFS_SECRET_KEY: "Igor123456"
+      RUSTFS_UNSAFE_BYPASS_DISK_CHECK: "true"
+
+    volumes:
+      - ./storage/disk1:/data/disk1
+      - ./storage/disk2:/data/disk2
+      - ./storage/disk3:/data/disk3
+      - ./storage/disk4:/data/disk4
+      - ./storage/disk5:/data/disk5
+      - ./storage/disk6:/data/disk6
+      - ./storage/disk7:/data/disk7
+      - ./storage/disk8:/data/disk8
+
+    command:
+      - /data/disk1
+      - /data/disk2
+      - /data/disk3
+      - /data/disk4
+      - /data/disk5
+      - /data/disk6
+      - /data/disk7
+      - /data/disk8
